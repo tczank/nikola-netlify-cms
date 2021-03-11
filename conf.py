@@ -16,16 +16,16 @@ import time
 
 
 # Data about this site
-BLOG_AUTHOR = "Your Name"  # (translatable)
-BLOG_TITLE = "Demo Site"  # (translatable)
+BLOG_AUTHOR = "Vozes da Diáspora"  # (translatable)
+BLOG_TITLE = "Vozes da Diáspora"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
 SITE_URL = "https://example.com/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://example.com/"
-BLOG_EMAIL = "joe@demo.site"
-BLOG_DESCRIPTION = "This is a demo site for Nikola."  # (translatable)
+BLOG_EMAIL = "vozes@dd.site"
+BLOG_DESCRIPTION = "O Blog dos Brasileiros que moraram ou moram no exterior."  # (translatable)
 
 # Nikola is multilingual!
 #
@@ -91,7 +91,7 @@ BLOG_DESCRIPTION = "This is a demo site for Nikola."  # (translatable)
 # in the default language will be shown instead.
 
 # What is the default language?
-DEFAULT_LANG = "en"
+DEFAULT_LANG = "pt_BR"
 
 # What other languages do you have?
 # The format is {"translationcode" : "path/to/translation" }
@@ -153,11 +153,11 @@ NAVIGATION_ALT_LINKS = {
 }
 
 # Name of the theme to use.
-THEME = "bootblog4"
+THEME = "bootblog"
 
 # Primary color of your theme. This will be used to customize your theme.
 # Must be a HEX value.
-THEME_COLOR = '#5670d4'
+THEME_COLOR = '#F31F1F'
 
 # Theme configuration. Fully theme-dependent. (translatable)
 # Examples below are for bootblog4.
@@ -169,7 +169,7 @@ THEME_CONFIG = {
         # Show the latest featured post in a large box, with the previewimage as its background.
         'featured_large': True,
         # Show the first (remaining) two featured posts in small boxes.
-        'featured_small': False,
+        'featured_small': True,
         # Show featured posts on mobile.
         'featured_on_mobile': True,
         # Show image in `featured_large` on mobile.
