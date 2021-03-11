@@ -91,7 +91,7 @@ BLOG_DESCRIPTION = "O Blog dos Brasileiros que moraram ou moram no exterior."  #
 # in the default language will be shown instead.
 
 # What is the default language?
-DEFAULT_LANG = "pt_BR"
+DEFAULT_LANG = "pt_br"
 
 # What other languages do you have?
 # The format is {"translationcode" : "path/to/translation" }
