@@ -10,7 +10,9 @@ NAVIGATION_LINKS = {
 GLOBAL_CONTEXT = {'blog_sidebar': """\
 <div class="sidebar-module sidebar-module-inset">
   <h4>About</h4>
-  <p>Esse é um blog mantido pelos brasileiros que vivem ou viveram no exterior. </p>
+  <p>This is the Bootstrap Blog theme by @mdo, adapted for Nikola by @Kwpolska.
+  And this sidebar is completely customizable — you can put anything you want
+  here!</p>
 </div>
 <div class="sidebar-module">
   <h4>Links</h4>
@@ -20,8 +22,6 @@ GLOBAL_CONTEXT = {'blog_sidebar': """\
     <li><a href="https://twitter.com/mdo">@mdo</a></li>
     <li><a href="https://twitter.com/Kwpolska">@Kwpolska</a></li>
     <li><a href="https://twitter.com/GetNikola">@GetNikola</a></li>
-    <li><a href="https://www.facebook.com/forabozonihon">@forabozonihon</a></li>
-    
- </ol>
+  </ol>
 </div>
 """}
