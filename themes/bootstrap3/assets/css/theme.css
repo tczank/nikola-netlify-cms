@@ -57,26 +57,16 @@ blockquote p, blockquote {
   line-height: 1.25;
 }
 
-/*ul.bricks > li {
-    display: inline;
-    background-color: lightblue;
-    padding: 8px;
-    border-radius: 5px;
-    line-height: 3;
-    white-space:nowrap;
-    margin: 3px;
-}*/
-
 ul.bricks > li {
     display: inline;
-    background-color: lightred;
+    /*   background-color: lightblue; */
+    background-color: #FE2E64
     padding: 8px;
     border-radius: 5px;
     line-height: 3;
     white-space:nowrap;
     margin: 3px;
 }
-
 
 
 .at300b, .stMainServices, .stButton, .stButton_gradient {
