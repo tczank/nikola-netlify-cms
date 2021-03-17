@@ -20,7 +20,7 @@ BLOG_AUTHOR = "Vozes da Diáspora"  # (translatable)
 BLOG_TITLE = "Vozes da Diáspora"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "https://example.com/"
+SITE_URL = "https://vozesdadiaspora.netlify.app"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://example.com/"
@@ -1348,15 +1348,16 @@ WARN_ABOUT_TAG_METADATA = False
 # It can be anything, data, functions, modules, etc.
 GLOBAL_CONTEXT = {'blog_sidebar': """\
 <div class="sidebar-module sidebar-module-inset">
-  <h4>About</h4>
+  <h4>Sobre nós</h4>
   <p>Esse é um blog mantido pelos brasileiros que vivem ou viveram no exterior.</p>
 </div>
 <div class="sidebar-module">
   <h4>Links</h4>
   <ol class="list-unstyled">
-    <li><a href="http://getbootstrap.com/examples/blog/">Bootstrap Blog Theme</a></li>
-    <li><a href="https://getnikola.com/">Nikola</a></li>
-    <li><a href="https://www.facebook.com/forabozonihon">@forabozonihon</a></li>
+<li><a href="https://www.facebook.com/forabozonihon">@forabozonihon</a></li>
+<li><a href="https://www.facebook.com/UNIDXSporUmBrasilmelhor">@UNIDXSporUmBrasilmelhor</a></li>
+<li><a href="https://www.facebook.com/nucleo.pt.boston.eua">@nucleo.pt.boston.eua</a></li>
+<li><a href="http://getbootstrap.com/examples/blog/">Bootstrap Blog Theme</a></li>
 </ol>
 </div>
 """}
