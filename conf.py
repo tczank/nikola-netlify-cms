@@ -167,7 +167,7 @@ NAVIGATION_ALT_LINKS = {
 }
 
 # Name of the theme to use.
-THEME = "gruberwine"
+THEME = "zen-forkawesome"
 
 # Primary color of your theme. This will be used to customize your theme.
 # Must be a HEX value.
@@ -276,7 +276,7 @@ TIMEZONE = "UTC"
 # 2 = using a string like “2 days ago”
 #
 # Your theme must support it, Bootstrap already does.
-# DATE_FANCINESS = 0
+ DATE_FANCINESS = 2
 
 # Customize the locale/region used for a language.
 # For example, to use British instead of US English: LOCALES = {'en': 'en_GB'}
