@@ -4,7 +4,7 @@ date: 2021-04-12 06:05:12 UTC
 description: ''
 link: ''
 slug: vozes-da-diaspora-entra-na-luta-por-um-brasil-sem-bolsonarismo
-tags: 'Vozes', 'Apresentação'
+tags: 'Vozes'
 title: Vozes da Diáspora entra na Luta por um Brasil sem Bolsonarismo
 author: Vozes
 type: text
