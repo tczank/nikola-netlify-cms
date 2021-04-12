@@ -231,7 +231,7 @@ THEME_CONFIG = {
 #     )
 
 POSTS = (
-    ("posts/*rst", "posts", "post.tmpl")
+    ("posts/*rst", "posts", "post.tmpl"),
     ("posts/o-brasil-e-o-mundo-em-2021.rst", "posts", "post.tmpl"),
     ("posts/estragos-feitos-por-bolsonaro-sao-imensuraveis.rst", "posts", "post.tmpl"),
     ("posts/*.md", "posts", "post.tmpl"),
