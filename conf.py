@@ -232,7 +232,8 @@ THEME_CONFIG = {
 
 POSTS = (
     ("posts/vozes-da-diaspora-entra-na-luta-por-um-brasil-sem-bolsonarismo.rst", "posts", "post.tmpl"),
-    ("posts/{o-brasil-e-o-mundo-em-2021.rst, estragos-feitos-por-bolsonaro-sao-imensuraveis.rst}", "posts", "post.tmpl"),
+    ("posts/o-brasil-e-o-mundo-em-2021.rst", "posts", "post.tmpl"),
+    ("posts/estragos-feitos-por-bolsonaro-sao-imensuraveis.rst", "posts", "post.mpl"),
     ("posts/*.md", "posts", "post.tmpl"),
     ("posts/*.txt", "posts", "post.tmpl"),
     ("posts/*.html", "posts", "post.tmpl"),
