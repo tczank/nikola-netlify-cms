@@ -7,7 +7,7 @@ slug: apresentacao
 tags: 'Apresentação', , 'Vozes da Diáspora', 'Vozes'
 author: Vozes da Diáspora
 title: Vozes da Diáspora entra na Luta por um Brasil sem Bolsonarismo
-type: O Blog Vozes da Diáspora, agora lançado, é o primeiro fruto germinado em debates de representantes de 3 grupos de brasileiros residentes no exterior: UNIDXS por um Brasil melhor (Alemanha), Núcleo PT Boston (EUA) e Fora Bolsonaro (Japão). 
+type: O Blog Vozes da Diáspora, agora lançado, é o primeiro fruto germinado em debates de representantes de 3 grupos de brasileiros residentes no exterior, UNIDXS por um Brasil melhor (Alemanha), Núcleo PT Boston (EUA) e Fora Bolsonaro (Japão). 
 
 Vozes da Diáspora reúne brasileiros que se engajaram politicamente no exterior
 em contextos e países distintos. Somos uma nova tentativa de organização
