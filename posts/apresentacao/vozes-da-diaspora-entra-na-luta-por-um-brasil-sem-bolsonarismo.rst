@@ -1,6 +1,6 @@
 ---
 category: ''
-date: 2022-04-12 11:05:12 UTC
+date: 2021-04-12 09:19:12 UTC
 description: ''
 link: ''
 slug: vozes-da-diaspora-entra-na-luta-por-um-brasil-sem-bolsonarismo
@@ -8,6 +8,7 @@ tags: 'Vozes, Apresentação'
 title: Vozes da Diáspora entra na Luta por um Brasil sem Bolsonarismo
 author: Vozes da Diáspora
 type: text
+status: featured
 ---
 O Blog Vozes da Diáspora, agora lançado, é o primeiro fruto germinado em debates de representantes de 3 grupos de brasileiros residentes no exterior: UNIDXS por um Brasil melhor (Alemanha), Núcleo PT Boston (EUA) e Fora Bolsonaro (Japão). 
 
