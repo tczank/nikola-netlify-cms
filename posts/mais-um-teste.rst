@@ -7,6 +7,9 @@ slug: mais-um-teste
 tags: 'teste'
 title: Mais um teste
 type: Boa noite isso é um teste de um post.
-type: Ok mais um teste especial, aprentação
+type: text 
 ---
-Escreva o seu comentário aqui.
+Teste especialasjdsalonhdfasok.
+             Varias linhas.
+
+muitos pontos: por exemplo bla bla e bãoçãoôes
