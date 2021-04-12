@@ -181,9 +181,9 @@ THEME_COLOR = '#F31F1F'
 THEME_CONFIG = {
     DEFAULT_LANG: {
         # Show the latest featured post in a large box, with the previewimage as its background.
-        'featured_large': True,
+        'featured_large': False,
         # Show the first (remaining) two featured posts in small boxes.
-        'featured_small': True,
+        'featured_small': False,
         # Show featured posts on mobile.
         'featured_on_mobile': True,
         # Show image in `featured_large` on mobile.
@@ -231,7 +231,7 @@ THEME_CONFIG = {
 #     )
 
 POSTS = (
-    ("posts/*.rst", "posts", "post.tmpl"),
+    ("posts/vozes-da-diaspora-entra-na-luta-por-um-brasil-sem-bolsonarismo.rst", "posts", "post.tmpl"),
     ("posts/*.md", "posts", "post.tmpl"),
     ("posts/*.txt", "posts", "post.tmpl"),
     ("posts/*.html", "posts", "post.tmpl"),
@@ -989,7 +989,7 @@ COMMENT_SYSTEM = "disqus"
 # depends on what comment system you use. The default is
 # "nikolademo" which is a test account for Disqus. More information
 # is in the manual.
-COMMENT_SYSTEM_ID = "nikolademo"
+COMMENT_SYSTEM_ID = "Vozes da Diáspora"
 
 # Create index.html for page folders?
 # WARNING: if a page would conflict with the index file (usually
