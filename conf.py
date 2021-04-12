@@ -24,7 +24,7 @@ SITE_URL = "https://vozesdadiaspora.netlify.app"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://example.com/"
-BLOG_EMAIL = "vozes@dd.site"
+BLOG_EMAIL = "forabolsonarojapao@gmail.com"
 BLOG_DESCRIPTION = "O Blog dos Brasileiros que moraram ou moram no exterior."  # (translatable)
 
 # Nikola is multilingual!
@@ -152,7 +152,10 @@ NAVIGATION_LINKS = {
         ('/archive.html', 'Arquivo', 'fa fa-folder-open'),
         ('/categories/index.html', 'Tags', 'fa fa-tags'),
         ('/rss.xml', 'RSS', 'fa fa-rss'),
-#        ('https://getnikola.com', 'Get Nikola', 'fa fa-user'),
+        ('https://www.facebook.com/forabozonihon', 'Fora Bolsonaro Japão', 'fab fa-facebook'),
+        ('https://www.facebook.com/UNIDXSporUmBrasilmelhor', 'UNIDXS por um Brasil Melhor', 'fab fa-facebook'),
+        ('https://www.facebook.com/nucleo.pt.boston.eua', 'Núcleo PT Boston', 'fab fa-facebook'),
+        ('https://getnikola.com', 'Get Nikola', 'fa fa-user'),
 #        ('https://twitter.com/getnikola', 'My Twitter', 'fab fa-twitter'),
 #        ('https://github.com/getnikola', 'My Github', 'fab fa-github'),
     )
