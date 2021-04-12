@@ -6,7 +6,6 @@ link: ''
 slug: mais-um-teste
 tags: 'teste'
 title: Mais um teste
-type: Boa noite isso é um teste de um post.
 type: text 
 ---
 Teste especialasjdsalonhdfasok.
