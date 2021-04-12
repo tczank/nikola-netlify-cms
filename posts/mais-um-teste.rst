@@ -6,6 +6,7 @@ link: ''
 slug: mais-um-teste
 tags: 'teste'
 title: Mais um teste
-type: Boa noite isso é um teste de um post
+type: Boa noite isso é um teste de um post.
+Ok mais um teste especial, aprentação
 ---
 Escreva o seu comentário aqui.
