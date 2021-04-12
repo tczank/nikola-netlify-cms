@@ -231,11 +231,11 @@ THEME_CONFIG = {
 #     )
 
 POSTS = (
+    ("posts/apresentacao/vozes-da-diaspora-entra-na-luta-por-um-brasil-sem-bolsonarismo.rst", "posts", "post.tmpl"),
     ("posts/gerais/*rst", "posts", "post.tmpl"),
     ("posts/*.md", "posts", "post.tmpl"),
     ("posts/*.txt", "posts", "post.tmpl"),
-    ("posts/*.html", "posts", "post.tmpl"),
-    ("posts/apresentacao/vozes-da-diaspora-entra-na-luta-por-um-brasil-sem-bolsonarismo.rst", "posts", "post.tmpl")
+    ("posts/*.html", "posts", "post.tmpl")
 )
 PAGES = (
     ("pages/*.rst", "pages", "page.tmpl"),
