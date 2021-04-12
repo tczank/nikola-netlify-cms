@@ -21,7 +21,8 @@ E como explicar a sobra de 80 bilhões de reais dos recursos destinados para o c
 
  
 
-MAIOR DESEMPREGO, MAIS FOME E TUDO DE RUIM  
+Maior Desemprego, Mais Fome e Tudo de Ruim
+==========================================
 
  
 
@@ -33,8 +34,8 @@ Não deu também para imaginar que o desgoverno do homem prosseguiria com a elim
 
  
 
-PASSANDO A BOIADA 
-
+Passando a Boiada
+========================
  
 
 Era inconcebível que o desgoverno aproveitaria a atenção da mídia com a pandemia para passar a boiada e promover mudanças legislativas para facilitar a exploração da Amazônia, como sugeriu o desministro do Meio Ambiente, Ricardo Salles, na reunião fatídica do Ministério em 22 de abril de 2020. Foram destruídos 11 mil quilômetros quadrados de floresta na Amazônia Legal no segundo ano de gestão do homem, segundo o INPE. O desmatamento foi 3 vezes maior que a proposta pelo Brasil para a Convenção do Clima.  
@@ -47,8 +48,8 @@ Como havia ameaçado na campanha eleitoral, o homem incentivou a criminalizaçã
 
  
 
-BASTA DE ESTRAGOS   
-
+Basta de Estragos
+=======================
  
 
 Mas vamos parar de jogar toda a culpa no homem. Ele tem cúmplices nos palácios de Brasília, na Avenida Paulista, no Setor Militar Urbano, na classe média e nos rincões mais miseráveis do Brasil. Ele tem carisma e despertou os maus impulsos que grande parcela dos brasileiros sempre acalentou dentro de si. Fomos o último país no mundo a libertar os escravos e ainda convivemos, sem cerimônia, com fortes resquícios da escravidão. 
@@ -56,9 +57,5 @@ Mas vamos parar de jogar toda a culpa no homem. Ele tem cúmplices nos palácios
 O homem fez o Brasil virar pária do mundo e todo o planeta agora vê o Patropi como uma ameaça. Mas começamos a ter esperança de vernos uma luz no final do túnel depois que o STF restabeleceu, embora não de forma definitiva os direitos políticos do ex-presidente Lula, e mandou o Senado instaurar uma CPI para apurar crimes cometidos pelo homem na condução da pandemia, A comissão parlamentar de inquérito pode ser a ante sala do impeachment e as pressões crescentes por um afastamento do homem levam a crer que o presidente da Câmara dos Deputados, Arthur Lira, finalmente instaure o processo.  
 
 O Brasil não pode mais permitir que o homem continue a fazer estragos. Basta.  
-
- 
-
- 
 
 PS. Mais de 70 pedidos de impeachment foram apresentados e o homem continua fazendo estragos. Deixaram o homem desgovernar, mas nenhum morto ressuscitará e ninguém aliviará a dor de seus entes queridos. Pelo contrário, o homem debochou deles e até imitou um morrendo por asfixia, em sua live semanal.
