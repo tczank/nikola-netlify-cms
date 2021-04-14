@@ -153,9 +153,7 @@ NAVIGATION_LINKS = {
         ('/categories/index.html', 'Tags', 'fa fa-tags'),
         ('/rss.xml', 'RSS', 'fa fa-rss'),
         ('https://www.facebook.com/forabozonihon', 'Fora Bolsonaro Japão', 'fas fa-bomb'),
-        #('https://www.facebook.com/UNIDXSporUmBrasilmelhor', 'UNIDXS por um Brasil Melhor', 'fab fa-facebook f'),
-        ('https://www.facebook.com/UNIDXSporUmBrasilmelhor', 'UNIDXS por um Brasil Melhor', 'far fa-raised-fist'),
-
+        ('https://www.facebook.com/UNIDXSporUmBrasilmelhor', 'UNIDXS por um Brasil Melhor', 'fab fa-facebook f'),
         ('https://www.facebook.com/nucleo.pt.boston.eua', 'Núcleo PT Boston', 'fab fa-star'),
 #        ('https://getnikola.com', 'Get Nikola', 'fa fa-user'),
 #        ('https://twitter.com/getnikola', 'My Twitter', 'fab fa-twitter'),
