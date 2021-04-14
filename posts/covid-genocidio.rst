@@ -10,8 +10,8 @@ type: text
 author: Pedro Machado
 ---
 O Brasil está enfrentando uma das piores crises de sua história. Um governo
-corrupto, racista, anti-democrático, contra o trabalhador, e unicamente incom-
-petente, combinado com a atual pandemia gerou um genocídio com mais de 350 mil
+corrupto, racista, anti-democrático, contra o trabalhador, e unicamente incompetente, 
+combinado com a atual pandemia gerou um genocídio com mais de 350 mil
 mortes registradas. A retirada deste governo do poder é o objetivo mais urgente
 para salvar o Brasil deste genocídio, porém, a longo prazo, isso somente não
 basta. Substituir este governo por outro de direita levemente mais competente
