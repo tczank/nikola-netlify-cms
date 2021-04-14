@@ -1,6 +1,6 @@
 ---
 category: ''
-date: 2021-04-14 12:25:32 UTC
+date: 2021-04-14 09:25:32 UTC
 description: ''
 link: ''
 slug: covid-genocidio
@@ -16,7 +16,9 @@ mortes registradas. A retirada deste governo do poder é o objetivo mais urgente
 para salvar o Brasil deste genocídio, porém, a longo prazo, isso somente não
 basta. Substituir este governo por outro de direita levemente mais competente
 mas com os mesmos ideais econômicos e sociais os motivando não é o suficiente
-para melhorar a vida da vasta maioria da populção.
+para melhorar a vida da vasta maioria da população.
+
+.. images:: /images/uti_mufidmajnun.jpg
 
 Este blog é um projeto jornalístico operado por uma coalizão de Brasileiros
 que moram ou moraram no exterior, direcionado especialmente ao público das
