@@ -20,7 +20,7 @@ BLOG_AUTHOR = "Vozes da Diáspora"  # (translatable)
 BLOG_TITLE = "Vozes da Diáspora"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "https://vozesdadiaspora.netlify.app"
+SITE_URL = "https://www.vozes.net/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://example.com/"
@@ -234,8 +234,7 @@ THEME_CONFIG = {
 #     )
 
 POSTS = (
-    ("posts/apresentacao/vozes-da-diaspora-entra-na-luta-por-um-brasil-sem-bolsonarismo.rst", "posts", "post.tmpl"),
-    ("posts/gerais/*rst", "posts", "post.tmpl"),
+    ("posts/*.rst", "posts", "post.tmpl"),
     ("posts/*.md", "posts", "post.tmpl"),
     ("posts/*.html", "posts", "post.tmpl")
 )
