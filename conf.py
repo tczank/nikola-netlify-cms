@@ -154,7 +154,7 @@ NAVIGATION_LINKS = {
         ('/rss.xml', 'RSS', 'fa fa-rss'),
         ('https://www.facebook.com/forabozonihon', 'Fora Bolsonaro Japão', 'fas fa-bomb'),
         #('https://www.facebook.com/UNIDXSporUmBrasilmelhor', 'UNIDXS por um Brasil Melhor', 'fab fa-facebook f'),
-        ('https://www.facebook.com/UNIDXSporUmBrasilmelhor', 'UNIDXS por um Brasil Melhor', 'fas fa-raised-fist'),
+        ('https://www.facebook.com/UNIDXSporUmBrasilmelhor', 'UNIDXS por um Brasil Melhor', 'fa fa-raised-fist'),
 
         ('https://www.facebook.com/nucleo.pt.boston.eua', 'Núcleo PT Boston', 'fab fa-star'),
 #        ('https://getnikola.com', 'Get Nikola', 'fa fa-user'),
