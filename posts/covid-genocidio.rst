@@ -18,8 +18,10 @@ basta. Substituir este governo por outro de direita levemente mais competente
 mas com os mesmos ideais econômicos e sociais os motivando não é o suficiente
 para melhorar a vida da vasta maioria da população.
 
-.. image:: /images/uti_mufidmajnun.jpg
-   :alt: Mufid Majnun
+.. figure:: /images/uti_mufidmajnun.jpg
+   :alt: Foto de UTI, por Mufid Majnun
+
+   Foto de UTI, por Mufid Majnun
 
 Este blog é um projeto jornalístico operado por uma coalizão de Brasileiros
 que moram ou moraram no exterior, direcionado especialmente ao público das
