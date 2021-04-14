@@ -152,13 +152,8 @@ NAVIGATION_LINKS = {
         ('/archive.html', 'Arquivo', 'fa fa-folder-open'),
         ('/categories/index.html', 'Tags', 'fa fa-tags'),
         ('/rss.xml', 'RSS', 'fa fa-rss'),
-<<<<<<< HEAD
-        ('https://www.facebook.com/forabozonihon', 'Fora Bolsonaro Japão', 'fa fa-globe-asia'),
-        ('https://www.facebook.com/UNIDXSporUmBrasilmelhor', 'UNIDXS por um Brasil Melhor', 'fa fa-globe-europe'),
-=======
-        ('https://www.facebook.com/forabozonihon', 'Fora Bolsonaro Japão', 'far fa-angry'),
+        ('https://www.facebook.com/forabozonihon', 'Fora Bolsonaro Japão', 'fas fa-bomb'),
         ('https://www.facebook.com/UNIDXSporUmBrasilmelhor', 'UNIDXS por um Brasil Melhor', 'fab fa-facebook f'),
->>>>>>> parent of 4a5da3d (outro icone)
         ('https://www.facebook.com/nucleo.pt.boston.eua', 'Núcleo PT Boston', 'fab fa-star'),
 #        ('https://getnikola.com', 'Get Nikola', 'fa fa-user'),
 #        ('https://twitter.com/getnikola', 'My Twitter', 'fab fa-twitter'),
