@@ -10,8 +10,8 @@ type: text
 author: Luciano Oliveira
 ---
 Contrariando todas as expectativas, Lula venceu a queda de braço com a burguesia
- que o queria banido da política nacional. Depois da decisão de ontem no STF,
- Lula está - agora em definitivo - elegível e, portanto, de volta ao jogo.
+que o queria banido da política nacional. Depois da decisão de ontem no STF,
+Lula está - agora em definitivo - elegível e, portanto, de volta ao jogo.
 
  .. figure:: /images/lula-fundo-branco.jpg
     :alt: Foto do Lula, por Ricardo Stuckert
@@ -34,6 +34,7 @@ colheram os frutos do golpe. A presidência estava programada para cair no colo
 do PSDB, mas "deu ruim" e caiu nos braços do ex-capitão. Agora sem saída,
 desMorolizada e com uma crise social tremenda, a burguesia aceita a volta de
 Lula.
+
 Lula conhece bem o jogo. Logo após a decisão do ministro do STF Edson Fachin, o
 ex-presidente que antes vestia vermelho para dar entrevistas, lançou mão de um
 modelito mais ao gosto dos patrões. Blazer escuro e camisa azul clara. Seu
@@ -55,6 +56,7 @@ o povo brasileiro depois do desastre estrondoso de Temer, Bolsonaro, Guedes e
 cia, dificilmente ele significará um avanço substancial para a classe
 trabalhadora. Isso porque a burguesia deve dar a Lula uma coleira ainda mais
 curta do que a que ele recebeu em 2002.
+
 Se quisesse Lula poderia liderar um movimento de ruptura com a burguesia
 nacional e imperialista que o meteram na cadeia. Ele poderia liderar uma
 transformação profunda da sociedade brasileira, mas se fizesse isso, Lula não
@@ -66,6 +68,7 @@ prendeu-se. Agora, a ordem é para soltar, então solta-se. Os mesmos juízes qu
 negaram todos os recursos a Lula, são os mesmo que agora cancelam todos os
 processos contra ele. Os militares que avalizaram o golpe e a sua prisão, agora
 se rebelam contra o "uso das forças armadas para projetos políticos".
+
 A vitória de ex-presidente portanto pode sim ser considerada um passo importante
 para derrota dos sonhos autoritários de Jair Bolsonaro, mas é, como em outras
 vezes na história do Brasil, uma saída negociada e, portanto, tutelada sem
@@ -80,6 +83,7 @@ portanto, a quem ele deve sua liberdade e seu possível retorno à presidência.
 Por isso não há motivos para acreditar que dessa vez, mesmo tendo passado por
 tudo que passou, ele faça um governo que vá além de colocar a casa em ordem sem
 atrapalhar os negócios da burguesia. O bom gerente está de volta.
+
 Para quem se julga de esquerda e já se cansou desse jogo é aconselhável olhar
 além da ilusão de humanizar ou democratizar o capitalismo. É preciso buscar uma
 alternativa política com base na experiência histórica, que lute por soluções
