@@ -12,7 +12,7 @@ author: Luciano Oliveira
 
 Escute esse post.
 
-.. media:: https://soundcloud.com/user-434148414/o-bom-gerente-esta-de-volta 
+.. soundcloud:: user-434148414/o-bom-gerente-esta-de-volta 
 
 Contrariando todas as expectativas, Lula venceu a queda de braço com a burguesia
 que o queria banido da política nacional. Depois da decisão de ontem no STF,
