@@ -17,7 +17,7 @@ O que falta agora é vontade política para estancar a sangria dos pobres brasil
 .. figure:: /images/idoso_morto_no_chao.png
    :alt: Idoso morto no chão, reprodução das redes sociais
 
-      Idoso morto no chão em hospital de Teresina, reprodução das redes sociais.
+   Idoso morto no chão em hospital de Teresina, reprodução das redes sociais.
 
 A mídia tradicional tem também grande parcela de cumplicidade por ter fertilizado o terreno em que brotou o governo da morte e da destruição. Globo, Veja, Estadão, Folha, Época, IstoÉ e companhia fizeram uma verdadeira lavagem cerebral durante anos com suas campanhas de demonização do PT e linchamento moral de lideranças petistas, principalmente do Lula, o presidente que tirou o Brasil do Mapa da Fome da ONU, baixou a taxa de desemprego para menos de 5%, pagou o FMI, elevou cerca de 40 milhões brasileiros à classe média, levou milhões de pobres e negros para universidades federais e apresentou o Brasil ao mundo como uma potência emergente respeitável. Hoje o Brasil é visto como uma ameaça sanitária ao mundo, como pária, como uma república de banana e liderada por um insano ridículo. 
 Se os pobres ganharam nos governo do PT, os ricos ganharam muito mais, mas para capitalistas desumanos não basta ter muito, é preciso que pobre não tenha nada e não interessa que morra por falta de oxigênio no chão de uma Unidade de Pronto Atendimento, como aconteceu com um idoso pobre e negro em Teresina. Nem o nome dele foi citado pelos jornais que deram a notícia. 
