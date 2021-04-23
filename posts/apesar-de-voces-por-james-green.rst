@@ -9,4 +9,4 @@ title: Apesar de vocês por James Green
 type: text
 ---
 
-.. media:: https://anchor.fm/carlos-alberto-jr/episodes/118---Apesar-de-vocs--com-James-Green-euj7ek
+.. media:: https://open.spotify.com/embed-podcast/show/18ZOTUBCj6mE0AyUgDZcjH
