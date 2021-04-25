@@ -5,7 +5,7 @@ description: ''
 link: ''
 slug: vozes-da-diaspora-entra-na-luta-por-um-brasil-sem-bolsonarismo
 tags: 'Vozes, Apresentação'
-title: Vozes da Diáspora entra na Luta por um Brasil sem Bolsonarismo
+title: Vozes da Diáspora entra na luta por um Brasil sem bolsonarismo
 author: Vozes da Diáspora
 type: text
 status: featured
