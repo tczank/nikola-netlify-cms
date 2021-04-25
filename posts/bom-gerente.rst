@@ -19,11 +19,11 @@ Lula está - agora em definitivo - elegível e, portanto, de volta ao jogo.
 .. soundcloud:: 1031467675
    :width: 400
 
- .. figure:: /images/lula-fundo-branco.jpg
-    :width: 500
-    :alt: Foto do Lula, por Ricardo Stuckert
+.. figure:: /images/lula-fundo-branco.jpg
+   :width: 500
+   :alt: Foto do Lula, por Ricardo Stuckert
 
-    Lula, por Ricardo Stuckert
+   Lula, por Ricardo Stuckert
 
 Para espanto de toda militância e alegria geral da elite raivosa, Lula aceitou
 jogar o jogo dentro das regras. Aceitou o golpe contra Dilma, aceitou sua
