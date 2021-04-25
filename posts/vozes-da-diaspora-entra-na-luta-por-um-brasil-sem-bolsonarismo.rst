@@ -18,5 +18,5 @@ política democrática visando conscientizar e mobilizar focando atualmente na
 luta anti-bolsonarista, contribuindo para uma saída do labirinto em
 que nos encontramos. Junte-se a nós!
 
-.. TASER_END
+.. TEASER_END
 

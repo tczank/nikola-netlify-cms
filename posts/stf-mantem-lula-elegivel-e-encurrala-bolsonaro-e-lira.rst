@@ -5,14 +5,17 @@ description: ''
 link: ''
 slug: stf-mantem-lula-elegivel-e-encurrala-bolsonaro-e-lira
 tags: 'STF, Lula, Impeachment'
-title: STF Mantém Lula Elegível e Encurrala Bolsonaro e Lira
+title: STF mantém Lula elegível e encurrala Bolsonaro e Lira
 type: text
 author: Estelina Rodrigues de Farias
 ---
 O Supremo Tribunal Federal deu mais dois passos, nesta quinta-feira, para restaurar a credibilidade perdida do Judiciário por causa de cumplicidade com o golpe de 2016, que levou o Brasil a pior situação da História, com pandemia, crises econômica,  social e ética, quase 400  mil mortes por Covid-19 e mais de 19 milhões de brasileiros passando fome. O plenário do STF decidiu, por 8 votos a favor e 3 contra, manter a anulação das condenações do ex-presidente Lula ditadas arbitrariamente pelo juiz parcial Sérgio Moro em Curitiba. Assim, o ex-presidente fica fora da Lei da Fixa Limpa
 e livre para disputar a eleição presidencial de 2022.
 
+.. TEASER_END
+
 .. figure:: /images/lula_com_o_povo_1920x1041.jpg
+   :width: 500 
    :alt: Foto de Lula com o Povo, por Ricardo Stuckert
 
    Foto: Ricardo Stuckert

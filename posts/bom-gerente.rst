@@ -5,7 +5,7 @@ description: ''
 link: ''
 slug: bom-gerente
 tags: 'Lula, Eleições'
-title: O Bom Gerente Está de Volta
+title: O bom gerente está de volta
 type: text
 author: Luciano Oliveira
 ---
