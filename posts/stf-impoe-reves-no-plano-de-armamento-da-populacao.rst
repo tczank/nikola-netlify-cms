@@ -6,7 +6,7 @@ link: ''
 slug: stf-impoe-reves-no-plano-de-armamento-da-populacao
 tags: 'STF, Armamento'
 author: Estelina Rodrigues de Farias
-title: STF Impõe Revés no Plano de Armamento da População
+title: STF impõe revés no plano de armamento da população
 type: text
 ---
 O presidente Jair Bolsonaro sofreu mais uma derrotada no Supremo Tribunal Federal. Desta vez foi alvejado um de seus intentos mais caros e maléficos, o de armamento da população com risco de degenerar em  formação de mais milícias e grupos paramilitares.
