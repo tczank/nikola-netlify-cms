@@ -9,9 +9,13 @@ title: O Brasil e o Mundo em 2021
 type: text
 author: Thomas Czank
 ---
+
 Em 2021 com a troca de Trump por Biden ficou ainda mais transparente que o
 regime unipolar em decadência não é capaz e nem interessado em lutar contra a
 pandemia do corona vírus. Na verdade, a nova administração dos EUA fez um esforço
+
+.. TEASER_END
+
 contra o combate ao corona vírus que não possibilitasse lucros às suas empresas
 farmacêuticas. Pressionaram sua colônia brasileira, por meio de Bolsonaro, para que não comprasse a vacina feita
 pela Rússia. Isso no momento em que o Brasil já passa das 350.000 mortes

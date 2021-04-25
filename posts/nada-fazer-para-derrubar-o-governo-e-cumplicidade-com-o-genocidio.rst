@@ -5,16 +5,20 @@ description: ''
 link: ''
 slug: nada-fazer-para-derrubar-o-governo-e-cumplicidade-com-o-genocidio
 tags: 'Genocídio, Bolsonaro, Pandemia'
-title: Nada Fazer Para Derrubar o Governo é Cumplicidade com o Genocídio
+title: Nada fazer para derrubar o governo é cumplicidade com o genocídio
 type: text
 author: Estelina Rodrigues de Farias
 ---
 
-Pessoas com ataques justos de indignação e revolta com a política necrófila do presidente Jair Bolsonaro costumam rogar por uma soltura imediata do Adélio, aquele rapaz das alegadas facadas em Juiz de Fora, para completar o serviço sujo. Como solução final não condiz com pacifismo nem com senso humanitário e dizer que o presidente é genocida já levou ativistas à prisão e enquadramento na Lei de Segurança Nacional, pode ser mais apropriado para a autodefesa de cada um apontar os cúmplices dos crimes de propagação do vírus e da falta de ação do governo para combater a pandemia com seus quase 400 mil mortos, equivalentes a mais de 25% de casos em todo o mundo. 
+Pessoas com ataques justos de indignação e revolta com a política necrófila do presidente Jair Bolsonaro costumam rogar por uma soltura imediata do Adélio, aquele rapaz das alegadas facadas em Juiz de Fora, para completar o serviço sujo. Como solução final não condiz com pacifismo nem com senso humanitário e dizer que o presidente é genocida já levou ativistas à prisão e enquadramento na Lei de Segurança Nacional, pode ser mais apropriado para a autodefesa de cada um apontar os cúmplices dos crimes de propagação do vírus e da falta de ação do governo para combater a pandemia com seus quase 400 mil mortos, equivalentes a mais de 25% de casos em todo o mundo.
+
+.. TEASER_END
+
 São muitos os cúmplices do genocídio em marcha, a começar pelos que  elegeram Bolsonaro, sabendo quem ele era, porque não enganou ninguém, em uma eleição fraudada com a prisão do ex-presidente Lula para não disputar a presidência em 2018 e milhões de fake news disparados para desmoralizar o concorrente do PT. Tais fatos bastariam para a cassação da chapa Bolsonaro-General Mourão, mas o Tribunal Superior Eleitoral legitimou a farsa e o Supremo Tribunal Federal só resolveu agir contra as notícias mentirosas quando se viu atingido e ameaçado na própria pele. O até há pouco presidente da Câmara dos Deputados, Rodrigo Maia, chocou uns 60 pedidos de impeachment de Bolsonaro e não viu motivo para abrir um processo. Seu sucessor Arthur Lira diz que ainda não teve tempo para se informar sobre os pedidos. Instaurar processo de impeachment é tarefa única e exclusiva do presidente da Câmara e a destituição da presidente Dilma, que não roubou nem matou, aconteceu em menos de 9 meses. 
 O que falta agora é vontade política para estancar a sangria dos pobres brasileiros, os que mais sofrem com o vírus, a superlotação dos hospitais, a falta de UTIs, leitos e até de insumos básicos de proteção para o pessoal da linha de frente e para intubação de pacientes. Dá para concluir, portanto, que os grandes cúmplices são Rodrigo Maia e Arthur Lira.
 
 .. figure:: /images/idoso_morto_no_chao.png
+   :width: 500
    :alt: Idoso morto no chão, reprodução das redes sociais
 
    Idoso morto no chão em hospital de Teresina, reprodução das redes sociais.

@@ -10,8 +10,6 @@ type: text
 author: Luciano Oliveira
 ---
 
-Escute esse post.
-
 .. soundcloud:: 1031467675
    :width: 400
 
@@ -19,7 +17,10 @@ Contrariando todas as expectativas, Lula venceu a queda de braço com a burguesi
 que o queria banido da política nacional. Depois da decisão de ontem no STF,
 Lula está - agora em definitivo - elegível e, portanto, de volta ao jogo.
 
+.. TEASER_END
+
  .. figure:: /images/lula-fundo-branco.jpg
+    :width: 500
     :alt: Foto do Lula, por Ricardo Stuckert
 
     Lula, por Ricardo Stuckert

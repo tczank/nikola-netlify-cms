@@ -18,7 +18,10 @@ basta. Substituir este governo por outro de direita levemente mais competente
 mas com os mesmos ideais econômicos e sociais os motivando não é o suficiente
 para melhorar a vida da vasta maioria da população.
 
+.. TEASER_END
+
 .. figure:: /images/uti_mufidmajnun.jpg
+   :width: 500
    :alt: Foto de UTI, por Mufid Majnun
 
    Foto de UTI, por Mufid Majnun

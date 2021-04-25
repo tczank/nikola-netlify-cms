@@ -5,11 +5,13 @@ description: ''
 link: ''
 slug: estragos-feitos-por-bolsonaro-sao-imensuraveis
 tags: 'Conjuntura, 2021'
-title: Estragos feitos por Bolsonaro são Imensuráveis
+title: Estragos feitos por Bolsonaro são imensuráveis
 type: text
 author: Estelina Rodrigues de Farias
 ---
 “Deixa primeiro o homem trabalhar. Depois, se não der certo, a gente tira ele de lá”. Isto me foi dito, depois da posse do presidente Jair Bolsonaro, por uma amiga coxinha que votou no candidato João Amoedo do partido Novo e agora furou a fila de vacinação contra a Covid19, por ser amiga de um médico, na Alemanha. 
+
+.. TEASER_END
 
 Na ocasião argumentei que depois os estragos seriam grandes demais e a chapa do pior candidato eleito da História do Brasil tinha de ser cassada logo para não dar tempo para que ele destruísse o país. O homem já tinha revelado seu instinto de morte e destruição na campanha eleitoral. De lá para cá as crises econômica, social, ambiental e sanitária se agravaram e já antes da pandemia. Ele teve ataques e chiliques, ameaçou a democracia e danificou instituições de proteção à vida, principalmente das camadas mais precarizadas da população. Direitos trabalhistas foram eliminados para atrair investimentos estrangeiros e o que se viu foi evasão investimentos. 
 
