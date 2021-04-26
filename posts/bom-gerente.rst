@@ -20,7 +20,7 @@ Lula está - agora em definitivo - elegível e, portanto, de volta ao jogo.
    :width: 400
 
 .. thumbnail:: /images/lula-fundo-branco.jpg
-   :width: 500
+   :width: 400
    :alt: Foto do Lula, por Ricardo Stuckert
 
    Lula, por Ricardo Stuckert

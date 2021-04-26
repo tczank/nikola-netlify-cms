@@ -1361,13 +1361,14 @@ WARN_ABOUT_TAG_METADATA = False
 
 # Put in global_context things you want available on all your templates.
 # It can be anything, data, functions, modules, etc.
-GLOBAL_CONTEXT = {'blog_sidebar': """\
+GLOBAL_CONTEXT = {'default_header_image': '/images/vozesdadiaspora.jpg',
+    'blog_sidebar': """\
 <div class="sidebar-module sidebar-module-inset">
   <h4>Sobre nós</h4>
   <p>Esse é um blog mantido pelos brasileiros que vivem ou viveram no exterior.</p>
 </div>
 <div class="sidebar-module">
-  <h4>Links</h4>
+  <h4>Links</h4> 
   <ol class="list-unstyled">
 <li><a href="https://www.facebook.com/forabozonihon">@forabozonihon</a></li>
 <li><a href="https://www.facebook.com/UNIDXSporUmBrasilmelhor">@UNIDXSporUmBrasilmelhor</a></li>
