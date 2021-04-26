@@ -827,7 +827,7 @@ GITHUB_COMMIT_SOURCE = True
 
 IMAGE_FOLDERS = {'images': 'images'}
 IMAGE_THUMBNAIL_SIZE = 400
-IMAGE_THUMBNAIL_FORMAT = '{name}.thumbnail{ext}'
+#IMAGE_THUMBNAIL_FORMAT = '{name}.thumbnail{ext}'
 
 # #############################################################################
 # HTML fragments and diverse things that are used by the templates
@@ -1169,7 +1169,7 @@ SHOW_SOURCELINK = False
 # Or a DuckDuckGo search: https://duckduckgo.com/search_box.html
 # Default is no search form.
 # (translatable)
-SEARCH_FORM = "https://duckduckgo.com/search_box.html"
+#SEARCH_FORM = "https://duckduckgo.com/search_box.html"
 #
 # This search form works for any site and looks good in the "site" theme where
 # it appears on the navigation bar:
