@@ -59,15 +59,13 @@ blockquote p, blockquote {
 
 ul.bricks > li {
     display: inline;
-    /*   background-color: lightblue; */
-    background-color: #FE2E64
+    background-color: lightblue;
     padding: 8px;
     border-radius: 5px;
     line-height: 3;
     white-space:nowrap;
     margin: 3px;
 }
-
 
 .at300b, .stMainServices, .stButton, .stButton_gradient {
     box-sizing: content-box;
