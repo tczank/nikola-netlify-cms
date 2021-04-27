@@ -4358,6 +4358,7 @@ input[type="button"].btn-block {
 
 .navbar-brand {
   display: inline-block;
+  width: 200px;
   padding-top: 0.324219rem;
   padding-bottom: 0.324219rem;
   margin-right: 1rem;
