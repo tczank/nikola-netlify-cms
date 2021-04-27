@@ -758,9 +758,9 @@ GITHUB_COMMIT_SOURCE = True
 # Default is:
 # GALLERY_FOLDERS = {"galleries": "galleries"}
 # More gallery options:
-# THUMBNAIL_SIZE = 180
-# MAX_IMAGE_SIZE = 1280
-# USE_FILENAME_AS_TITLE = True
+#THUMBNAIL_SIZE = 180
+#MAX_IMAGE_SIZE = 1280
+#USE_FILENAME_AS_TITLE = True
 # EXTRA_IMAGE_EXTENSIONS = []
 #
 # If set to False, it will sort by filename instead. Defaults to True
@@ -804,7 +804,7 @@ GITHUB_COMMIT_SOURCE = True
 
 # If set to True, any ICC profile will be copied when an image is thumbnailed or
 # resized.
-# PRESERVE_ICC_PROFILES = False
+PRESERVE_ICC_PROFILES = True 
 
 # Folders containing images to be used in normal posts or pages.
 # IMAGE_FOLDERS is a dictionary of the form {"source": "destination"},
@@ -827,7 +827,7 @@ GITHUB_COMMIT_SOURCE = True
 
 IMAGE_FOLDERS = {'images': 'images'}
 IMAGE_THUMBNAIL_SIZE = 400
-#IMAGE_THUMBNAIL_FORMAT = '{name}.thumbnail{ext}'
+IMAGE_THUMBNAIL_FORMAT = '{name}.thumbnail{ext}'
 
 # #############################################################################
 # HTML fragments and diverse things that are used by the templates
