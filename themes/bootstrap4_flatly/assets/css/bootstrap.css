@@ -4362,11 +4362,8 @@ input[type="button"].btn-block {
   padding-bottom: 0.324219rem;
   margin-right: 1rem;
   font-size: 1.171875rem;
-  line-height: 80px;
-  height: 80px;
-  oadding: 0 15px;
+  line-height: inherit;
   white-space: nowrap;
-
 }
 
 .navbar-brand:hover, .navbar-brand:focus {
@@ -4443,7 +4440,7 @@ input[type="button"].btn-block {
   }
 }
 
-@media (min-width: 100px) {
+@media (min-width: 576px) {
   .navbar-expand-sm {
     -ms-flex-flow: row nowrap;
     flex-flow: row nowrap;
@@ -4480,7 +4477,7 @@ input[type="button"].btn-block {
   }
 }
 
-@media (max-width: 300px) {
+@media (max-width: 767.98px) {
   .navbar-expand-md > .container,
   .navbar-expand-md > .container-fluid, .navbar-expand-md > .container-sm, .navbar-expand-md > .container-md, .navbar-expand-md > .container-lg, .navbar-expand-md > .container-xl {
     padding-right: 0;
@@ -4488,7 +4485,7 @@ input[type="button"].btn-block {
   }
 }
 
-@media (min-width: 100px) {
+@media (min-width: 768px) {
   .navbar-expand-md {
     -ms-flex-flow: row nowrap;
     flex-flow: row nowrap;
@@ -4525,7 +4522,7 @@ input[type="button"].btn-block {
   }
 }
 
-@media (max-width: 300px) {
+@media (max-width: 991.98px) {
   .navbar-expand-lg > .container,
   .navbar-expand-lg > .container-fluid, .navbar-expand-lg > .container-sm, .navbar-expand-lg > .container-md, .navbar-expand-lg > .container-lg, .navbar-expand-lg > .container-xl {
     padding-right: 0;
@@ -4533,7 +4530,7 @@ input[type="button"].btn-block {
   }
 }
 
-@media (min-width: 100px) {
+@media (min-width: 992px) {
   .navbar-expand-lg {
     -ms-flex-flow: row nowrap;
     flex-flow: row nowrap;
@@ -4570,7 +4567,7 @@ input[type="button"].btn-block {
   }
 }
 
-@media (max-width: 300px) {
+@media (max-width: 1199.98px) {
   .navbar-expand-xl > .container,
   .navbar-expand-xl > .container-fluid, .navbar-expand-xl > .container-sm, .navbar-expand-xl > .container-md, .navbar-expand-xl > .container-lg, .navbar-expand-xl > .container-xl {
     padding-right: 0;
@@ -4578,7 +4575,7 @@ input[type="button"].btn-block {
   }
 }
 
-@media (min-width: 100px) {
+@media (min-width: 1200px) {
   .navbar-expand-xl {
     -ms-flex-flow: row nowrap;
     flex-flow: row nowrap;
