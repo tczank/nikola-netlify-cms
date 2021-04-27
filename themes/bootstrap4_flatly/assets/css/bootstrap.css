@@ -4358,7 +4358,6 @@ input[type="button"].btn-block {
 
 .navbar-brand {
   display: inline-block;
-  width: 100px;
   padding-top: 0.324219rem;
   padding-bottom: 0.324219rem;
   margin-right: 1rem;
@@ -4433,7 +4432,7 @@ input[type="button"].btn-block {
   overflow-y: auto;
 }
 
-@media (max-width: 300.98px) {
+@media (max-width: 575.98px) {
   .navbar-expand-sm > .container,
   .navbar-expand-sm > .container-fluid, .navbar-expand-sm > .container-sm, .navbar-expand-sm > .container-md, .navbar-expand-sm > .container-lg, .navbar-expand-sm > .container-xl {
     padding-right: 0;
