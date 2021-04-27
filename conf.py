@@ -139,7 +139,7 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("/index.html", "Principal"),
+#        ("/index.html", "Principal"),
         ("/archive.html", "Arquivo"),
         ("/categories/", "Tags"),
         ("/rss.xml", "Feed RSS"),
@@ -357,7 +357,7 @@ METADATA_FORMAT = "YAML"
 # Nikola supports logo display.  If you have one, you can put the URL here.
 # Final output is <img src="LOGO_URL" id="logo" alt="BLOG_TITLE">.
 # The URL may be relative to the site root.
-LOGO_URL = 'images/vozesdadiaspora.jpg, height=200px, width=200px'
+LOGO_URL = 'images/vozesdadiaspora.jpg, width=200px'
 
 # If you want to hide the title of your website (for example, if your logo
 # already contains the text), set this to False.
