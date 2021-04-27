@@ -357,7 +357,7 @@ METADATA_FORMAT = "YAML"
 # Nikola supports logo display.  If you have one, you can put the URL here.
 # Final output is <img src="LOGO_URL" id="logo" alt="BLOG_TITLE">.
 # The URL may be relative to the site root.
-LOGO_URL = 'images/vozesdadiaspora.jpg, width=200px'
+LOGO_URL = 'images/vozesdadiaspora.jpg'
 
 # If you want to hide the title of your website (for example, if your logo
 # already contains the text), set this to False.
@@ -596,16 +596,16 @@ FRONT_INDEX_HEADER = {
 # URL_TYPE = 'rel_path'
 
 # Extension for RSS feed files
-# RSS_EXTENSION = ".xml"
+RSS_EXTENSION = ".xml"
 
 # RSS filename base (without extension); used for indexes and galleries.
 # (translatable)
-# RSS_FILENAME_BASE = "rss"
+RSS_FILENAME_BASE = "rss"
 
 # Final location for the blog main RSS feed is:
 # output / TRANSLATION[lang] / RSS_PATH / RSS_FILENAME_BASE RSS_EXTENSION
 # (translatable)
-# RSS_PATH = ""
+i#RSS_PATH = ""
 
 # Final location for the blog main Atom feed is:
 # output / TRANSLATION[lang] / ATOM_PATH / ATOM_FILENAME_BASE ATOM_EXTENSION
