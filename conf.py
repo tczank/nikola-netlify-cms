@@ -155,7 +155,6 @@ NAVIGATION_LINKS = {
         ('https://www.facebook.com/forabozonihon', 'Fora Bolsonaro Japão', 'fas fa-bomb'),
         ('https://www.facebook.com/UNIDXSporUmBrasilmelhor', 'UNIDXS por um Brasil Melhor', 'fab fa-facebook f'),
         ('https://www.facebook.com/nucleo.pt.boston.eua', 'Núcleo PT Boston', 'fab fa-star'),
-        ('https://getnikola.com', 'Get Nikola', 'fa fa-user'),
     )
 }
 
@@ -598,7 +597,7 @@ RSS_EXTENSION = ".xml"
 
 # RSS filename base (without extension); used for indexes and galleries.
 # (translatable)
-RSS_FILENAME_BASE = "rss"
+RSS_FILENAME_BASE = "vozesrss"
 
 # Final location for the blog main RSS feed is:
 # output / TRANSLATION[lang] / RSS_PATH / RSS_FILENAME_BASE RSS_EXTENSION
@@ -756,9 +755,9 @@ GITHUB_COMMIT_SOURCE = True
 # Default is:
 # GALLERY_FOLDERS = {"galleries": "galleries"}
 # More gallery options:
-#THUMBNAIL_SIZE = 180
-#MAX_IMAGE_SIZE = 1280
-#USE_FILENAME_AS_TITLE = True
+THUMBNAIL_SIZE = 180
+MAX_IMAGE_SIZE = 1280
+USE_FILENAME_AS_TITLE = True
 # EXTRA_IMAGE_EXTENSIONS = []
 #
 # If set to False, it will sort by filename instead. Defaults to True
@@ -825,7 +824,7 @@ PRESERVE_ICC_PROFILES = True
 
 IMAGE_FOLDERS = {'images': 'images'}
 IMAGE_THUMBNAIL_SIZE = 400
-IMAGE_THUMBNAIL_FORMAT = '{name}.thumbnail{ext}'
+#IMAGE_THUMBNAIL_FORMAT = '{name}.thumbnail{ext}'
 
 # #############################################################################
 # HTML fragments and diverse things that are used by the templates
@@ -1149,13 +1148,13 @@ GENERATE_RSS = True
 
 # Only include teasers in Atom and RSS feeds. Disabling include the full
 # content. Defaults to True.
-# FEED_TEASERS = True
+FEED_TEASERS = True
 
 # Strip HTML from Atom and RSS feed summaries and content. Defaults to False.
 # FEED_PLAIN = False
 
 # Number of posts in Atom and RSS feeds.
-# FEED_LENGTH = 10
+FEED_LENGTH = 10
 
 # RSS_LINK is a HTML fragment to link the RSS or Atom feeds. If set to None,
 # the base.tmpl will use the feed Nikola generates. However, you may want to
