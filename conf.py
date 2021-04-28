@@ -151,7 +151,7 @@ NAVIGATION_LINKS = {
 #        ('/index.html', 'Principal', 'fa fa-home'),
         ('/archive.html', 'Arquivo', 'fa fa-folder-open'),
         ('/categories/index.html', 'Tags', 'fa fa-tags'),
-        ('/vozesrss.xml', 'RSS', 'fa fa-rss'),
+        ('/rss.xml', 'RSS', 'fa fa-rss'),
         ('https://www.facebook.com/forabozonihon', 'Fora Bolsonaro Japão', 'fas fa-bomb'),
         ('https://www.facebook.com/UNIDXSporUmBrasilmelhor', 'UNIDXS por um Brasil Melhor', 'fab fa-facebook f'),
         ('https://www.facebook.com/nucleo.pt.boston.eua', 'Núcleo PT Boston', 'fab fa-star'),
@@ -597,12 +597,12 @@ RSS_EXTENSION = ".xml"
 
 # RSS filename base (without extension); used for indexes and galleries.
 # (translatable)
-RSS_FILENAME_BASE = "vozesrss"
+RSS_FILENAME_BASE = "rss"
 
 # Final location for the blog main RSS feed is:
 # output / TRANSLATION[lang] / RSS_PATH / RSS_FILENAME_BASE RSS_EXTENSION
 # (translatable)
-#RSS_PATH = ""
+RSS_PATH = "ouput/rss.xml"
 
 # Final location for the blog main Atom feed is:
 # output / TRANSLATION[lang] / ATOM_PATH / ATOM_FILENAME_BASE ATOM_EXTENSION
