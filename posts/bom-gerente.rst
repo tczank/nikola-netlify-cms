@@ -8,7 +8,7 @@ tags: 'Lula, Eleições'
 title: O bom gerente está de volta
 type: text
 author: Luciano Oliveira
-previewimage: /images/lula-fundo-branco.jpg
+..previewimage: /images/lula-fundo-branco.jpg
 ---
 
 Contrariando todas as expectativas, Lula venceu a queda de braço com a burguesia
