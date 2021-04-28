@@ -137,29 +137,27 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 #          with a ``/``, otherwise end them with ``/index.html`` — or
 #          else they won’t be highlighted when active.
 
-NAVIGATION_LINKS = {
-    DEFAULT_LANG: (
-#        ("/index.html", "Principal"),
-        ("/archive.html", "Arquivo"),
-        ("/categories/", "Tags"),
-        ("/rss.xml", "Feed RSS"),
-    ),
-}
-
 #NAVIGATION_LINKS = {
 #    DEFAULT_LANG: (
-#        ('/index.html', 'Principal', 'fa fa-home'),
-#        ('/archive.html', 'Arquivo', 'fa fa-folder-open'),
-#        ('/categories/index.html', 'Tags', 'fa fa-tags'),
-#        ('/rss.xml', 'RSS', 'fa fa-rss'),
-#        ('https://www.facebook.com/forabozonihon', 'Fora Bolsonaro Japão', 'fas fa-bomb'),
-#        ('https://www.facebook.com/UNIDXSporUmBrasilmelhor', 'UNIDXS por um Brasil Melhor', 'fab fa-facebook f'),
-#        ('https://www.facebook.com/nucleo.pt.boston.eua', 'Núcleo PT Boston', 'fab fa-star'),
-#        ('https://getnikola.com', 'Get Nikola', 'fa fa-user'),
-#        ('https://twitter.com/getnikola', 'My Twitter', 'fab fa-twitter'),
-#        ('https://github.com/getnikola', 'My Github', 'fab fa-github'),
-#    )
+#        ("/index.html", "Principal"),
+#        ("/archive.html", "Arquivo"),
+#        ("/categories/", "Tags"),
+#        ("/rss.xml", "Feed RSS"),
+#    ),
 #}
+
+NAVIGATION_LINKS = {
+    DEFAULT_LANG: (
+#        ('/index.html', 'Principal', 'fa fa-home'),
+        ('/archive.html', 'Arquivo', 'fa fa-folder-open'),
+        ('/categories/index.html', 'Tags', 'fa fa-tags'),
+        ('/rss.xml', 'RSS', 'fa fa-rss'),
+        ('https://www.facebook.com/forabozonihon', 'Fora Bolsonaro Japão', 'fas fa-bomb'),
+        ('https://www.facebook.com/UNIDXSporUmBrasilmelhor', 'UNIDXS por um Brasil Melhor', 'fab fa-facebook f'),
+        ('https://www.facebook.com/nucleo.pt.boston.eua', 'Núcleo PT Boston', 'fab fa-star'),
+        ('https://getnikola.com', 'Get Nikola', 'fa fa-user'),
+    )
+}
 
 
 # Alternative navigation links. Works the same way NAVIGATION_LINKS does,
@@ -170,8 +168,8 @@ NAVIGATION_ALT_LINKS = {
 }
 
 # Name of the theme to use.
-#THEME = "zen-forkawesome"
-THEME = "bootstrap4_flatly"
+THEME = "zen-forkawesome"
+#THEME = "bootstrap4_flatly"
 # Primary color of your theme. This will be used to customize your theme.
 # Must be a HEX value.
 THEME_COLOR = '#F31F1F'
