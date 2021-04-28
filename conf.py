@@ -181,7 +181,7 @@ THEME_COLOR = '#F31F1F'
 THEME_CONFIG = {
     DEFAULT_LANG: {
         # Show the latest featured post in a large box, with the previewimage as its background.
-        'featured_large': True,
+        'featured_large': False,
         # Show the first (remaining) two featured posts in small boxes.
         'featured_small': True,
         # Show featured posts on mobile.
