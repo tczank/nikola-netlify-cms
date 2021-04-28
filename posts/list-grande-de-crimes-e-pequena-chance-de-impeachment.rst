@@ -19,5 +19,6 @@ Embora a lista enorme de crimes cometidos pelo presidente Bolsonaro na gestão d
 Mais revelações sobre os disparates criminosos do governo Bolsonaro no vídeo do filósofo Paulo.
 
 .. class:: center
+
    .. youtube:: XpJVNqY1F-8
       :width: 400
