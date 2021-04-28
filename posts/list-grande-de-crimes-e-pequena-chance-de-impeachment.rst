@@ -18,7 +18,5 @@ Após suportar muitos insultos, a embaixada em Brasília mostrou que a tradicion
 Embora a lista enorme de crimes cometidos pelo presidente Bolsonaro na gestão desastrosa da pandemia seja incomparavelmente maior do que a que levou ao impeachment do presidente Fernando Collor de Mello, há muito ceticismo agora porque todo o Centrão está comprado e fechado em favor da permanência do presidente e a pressão popular contrária se limita às redes sociais.
 Mais revelações sobre os disparates criminosos do governo Bolsonaro no vídeo do filósofo Paulo.
 
-.. class:: center
-
    .. youtube:: XpJVNqY1F-8
-      :width: 400
+      :align: center

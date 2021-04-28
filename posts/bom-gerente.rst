@@ -19,7 +19,8 @@ Lula está - agora em definitivo - elegível e, portanto, de volta ao jogo.
 
 .. soundcloud:: 1031467675
    :width: 400
-
+   :align: center
+     
 .. thumbnail:: /images/lula-fundo-branco.jpg
    :width: 400
    :alt: Foto do Lula, por Ricardo Stuckert
