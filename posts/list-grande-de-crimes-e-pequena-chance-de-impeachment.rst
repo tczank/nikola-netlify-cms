@@ -4,7 +4,7 @@ date: 2021-04-28 08:13:07 UTC
 description: ''
 link: ''
 slug: list-grande-de-crimes-e-pequena-chance-de-impeachment
-tags: ''
+tags: 'CPI, Pandemia, China, Paulo Ghiraldelli'
 title: List grande de crimes e pequena chance de impeachment
 author: Estelina Rodrigues de Farias
 type: text
@@ -18,5 +18,6 @@ Após suportar muitos insultos, a embaixada em Brasília mostrou que a tradicion
 Embora a lista enorme de crimes cometidos pelo presidente Bolsonaro na gestão desastrosa da pandemia seja incomparavelmente maior do que a que levou ao impeachment do presidente Fernando Collor de Mello, há muito ceticismo agora porque todo o Centrão está comprado e fechado em favor da permanência do presidente e a pressão popular contrária se limita às redes sociais.
 Mais revelações sobre os disparates criminosos do governo Bolsonaro no vídeo do filósofo Paulo.
 
-.. youtube:: XpJVNqY1F-8
-   :width: 400
+.. class:: center
+   .. youtube:: XpJVNqY1F-8
+      :width: 400

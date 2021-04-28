@@ -17,4 +17,3 @@ O youtuber Felipe Neto fala, didaticamente, sobre como funcionam os ataques digi
 "O articulador ensina e o gado muge. É assim que funciona o ser humano robotizado. Os coordenadores lá em cima, principalmente nos grupos de WhatsApp, apontam as coisas que o gado replicador tem que postar", detonou.
 
 .. media:: https://www.facebook.com/watch/?v=2800158620245462
-   :width: 400
