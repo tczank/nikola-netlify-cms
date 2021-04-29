@@ -13,7 +13,8 @@ author: Estelina Rodrigues de Farias
 Pessoas com ataques justos de indignação e revolta com a política necrófila do presidente Jair Bolsonaro costumam rogar por uma soltura imediata do Adélio, aquele rapaz das alegadas facadas em Juiz de Fora, para completar o serviço sujo. Como solução final não condiz com pacifismo nem com senso humanitário e dizer que o presidente é genocida já levou ativistas à prisão e enquadramento na Lei de Segurança Nacional, pode ser mais apropriado para a autodefesa de cada um apontar os cúmplices dos crimes de propagação do vírus e da falta de ação do governo para combater a pandemia com seus quase 400 mil mortos, equivalentes a mais de 25% de casos em todo o mundo.
 
 .. figure:: /images/idoso_morto_no_chao.png
-   :width: 500
+   :width: 400
+   :height: 400
    :alt: Idoso morto no chão, reprodução das redes sociais
 
    Idoso morto no chão em hospital de Teresina, reprodução das redes sociais.
