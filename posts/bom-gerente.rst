@@ -20,11 +20,12 @@ Lula está - agora em definitivo - elegível e, portanto, de volta ao jogo.
     :width: 400
     :alt: Foto do Lula, por Ricardo Stuckert
 
-
-
-
-
 .. TEASER_END
+
+.. soundcloud:: 1031467675
+   :width: 400
+   :align: center
+
 
    Lula, por Ricardo Stuckert
 
@@ -99,7 +100,3 @@ além da ilusão de humanizar ou democratizar o capitalismo. É preciso buscar u
 alternativa política com base na experiência histórica, que lute por soluções
 mais fundamentais e duradouras para a classe trabalhadora. Sem isso não sairemos
 do lugar nunca.
-
-.. soundcloud:: 1031467675
-   :width: 400
-   :align: center
