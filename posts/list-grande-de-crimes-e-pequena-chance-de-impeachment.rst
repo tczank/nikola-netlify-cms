@@ -5,7 +5,7 @@ description: ''
 link: ''
 slug: list-grande-de-crimes-e-pequena-chance-de-impeachment
 tags: 'CPI, Pandemia, China, Paulo Ghiraldelli'
-title: List grande de crimes e pequena chance de impeachment
+title: Lista grande de crimes e pequena chance de impeachment
 author: Estelina Rodrigues de Farias
 type: text
 ---
