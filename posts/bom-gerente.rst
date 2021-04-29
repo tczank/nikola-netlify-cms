@@ -15,7 +15,10 @@ Contrariando todas as expectativas, Lula venceu a queda de braço com a burguesi
 que o queria banido da política nacional. Depois da decisão de ontem no STF,
 Lula está - agora em definitivo - elegível e, portanto, de volta ao jogo.
 
-..previewimage: /images/lula-fundo-branco.jpg
+
+.. thumbnail:: /images/lula-fundo-branco.jpg
+    :width: 400
+    :alt: Foto do Lula, por Ricardo Stuckert
 
 .. TEASER_END
 
@@ -23,9 +26,6 @@ Lula está - agora em definitivo - elegível e, portanto, de volta ao jogo.
    :width: 400
    :align: center
 
-.. thumbnail:: /images/lula-fundo-branco.jpg
-    :width: 400
-    :alt: Foto do Lula, por Ricardo Stuckert
 
 
    Lula, por Ricardo Stuckert
