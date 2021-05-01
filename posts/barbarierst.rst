@@ -5,7 +5,7 @@ slug: barbarie
 description: ''
 link: ''
 tags: 'Vidas Negras Importam, Crime'
-title: SE VIDA NEGRA NÃO IMPORTA É A BARBÁRIE E AÍ NINGUÉM ESCAPA
+title: Se vida negra não importa barbárie e aí ninguém escapa
 type: text
 author: Estelina Rodrigues de Farias
 ..previewimage: /images/homens-mortos-supermercado.jpg
