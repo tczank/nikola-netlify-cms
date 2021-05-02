@@ -11,6 +11,6 @@ type: text
 ---
 O 1o de Maio no Japão não é um feriado e mesmo assim existem aqueles que lutam pelos direitos dos trabalhadores relembrando os mártires de Chicago.
 
-{{% media url=https://t.co/hLIItwIsVu">pic.twitter.com/hLIItwIsVu</a></p>&mdash; %}}
+.. media:: https://t.co/hLIItwIsVu">pic.twitter.com/hLIItwIsVu</a></p>&mdash
 
 .. TEASER_END
