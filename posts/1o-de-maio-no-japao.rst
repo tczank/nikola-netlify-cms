@@ -5,7 +5,7 @@ description: ''
 link: ''
 slug: 1o-de-maio-no-japao
 tags: 'Japão, 1o de Maio, COVID19, Trabalhadores da Saúde'
-title: 1\ :sup:`o`\ de Maio no Japão
+title: Primeiro de Maio no Japão
 author: Thomas Czank
 type: text
 ---
