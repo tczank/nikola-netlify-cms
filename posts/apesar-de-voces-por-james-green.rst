@@ -12,7 +12,7 @@ author: Carlos Alberto Jr.
 
 A participação dos Estados Unidos no golpe de 1964 no Brasil, e em diversas outras operações para desestabilizar democracias ao redor do mundo, é inegável.
 
-{{% media url=https://embed.podcasts.apple.com/br/podcast/118-apesar-de-voc%C3%AAs-com-james-green/id1465914146?i=1000516484053&l=en %}}
+{{% media url=https://radiopublic.com/roteirices-8gKbqZ/s1!6d331 %}}
 
 .. TEASER_END
 
