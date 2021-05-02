@@ -6,11 +6,11 @@ link: ''
 slug: 1o-de-maio-no-japao
 tags: 'Japão, 1o de Maio, COVID19, Trabalhadores da Saúde'
 title: 1o de Maio no Japão
-aythor: Thomas Czank
+author: Thomas Czank
 type: text
 ---
 O 1o de Maio no Japão não é um feriado e mesmo assim existem aqueles que lutam pelos direitos dos trabalhadores relembrando os mártires de Chicago.
 
-.. media:: https://t.co/hLIItwIsVu">pic.twitter.com/hLIItwIsVu</a></p>&mdash
+{{% media:https://t.co/hLIItwIsVu">pic.twitter.com/hLIItwIsVu</a></p>&mdash %}}
 
 .. TEASER_END
