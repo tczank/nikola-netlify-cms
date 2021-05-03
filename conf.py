@@ -1180,8 +1180,8 @@ SEARCH_FORM = """
  <input type="hidden" name="k9" value="#D51920">
  <input type="hidden" name="kt" value="h">
  <input type="text" name="q" maxlength="255"
-  placeholder="Busca&hellip;" class="span2" style="margin-top: 100px;">
- <input type="submit" value="DuckDuckGo Search" style="visibility: hidden;">
+  placeholder="Busca&hellip;" class="span2" style="margin-top: 5px;">
+ <input type="submit" value="DuckDuckGo Search" style="visibility: hidden: 5px;">
  </form>
  <!-- End of custom search -->
  """ % SITE_URL
