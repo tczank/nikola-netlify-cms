@@ -1171,20 +1171,20 @@ FEED_LENGTH = 10
 # This search form works for any site and looks good in the "site" theme where
 # it appears on the navigation bar:
 #
-#SEARCH_FORM = """
-# <!-- DuckDuckGo custom search -->
-# <form method="get" id="search" action="https://duckduckgo.com/"
-#  class="navbar-form pull-left">
-# <input type="hidden" name="sites" value="%s">
-# <input type="hidden" name="k8" value="#444444">
-# <input type="hidden" name="k9" value="#D51920">
-# <input type="hidden" name="kt" value="h">
-# <input type="text" name="q" maxlength="255"
-#  placeholder="Search&hellip;" class="span2" style="margin-top: 4px;">
-# <input type="submit" value="DuckDuckGo Search" style="visibility: hidden;">
-# </form>
-# <!-- End of custom search -->
-# """# % SITE_URL
+SEARCH_FORM = """
+ <!-- DuckDuckGo custom search -->
+ <form method="get" id="search" action="https://duckduckgo.com/"
+  class="navbar-form pull-left">
+ <input type="hidden" name="sites" value="%s">
+ <input type="hidden" name="k8" value="#444444">
+ <input type="hidden" name="k9" value="#D51920">
+ <input type="hidden" name="kt" value="h">
+ <input type="text" name="q" maxlength="255"
+  placeholder="Search&hellip;" class="span2" style="margin-top: 2px;">
+ <input type="submit" value="DuckDuckGo Search" style="visibility: hidden;">
+ </form>
+ <!-- End of custom search -->
+ """ % SITE_URL
 #
 # If you prefer a Google search form, here's an example that should just work:
 # SEARCH_FORM = """
@@ -1224,8 +1224,16 @@ EXTRA_HEAD_DATA = """\
 # Google Analytics or whatever else you use. Added to the bottom of <body>
 # in the default template (base.tmpl).
 # (translatable)
-# BODY_END = ""
-
+BODY_END = """
+<!-- Global Site Tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=GA_TRACKING_ID"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', '271164082');
+</script>
+"""
 # The possibility to extract metadata from the filename by using a
 # regular expression.
 # To make it work you need to name parts of your regular expression.
