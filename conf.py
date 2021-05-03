@@ -1226,7 +1226,7 @@ EXTRA_HEAD_DATA = """\
 # (translatable)
 BODY_END = """
 <!-- Global Site Tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=GA_TRACKING_ID"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ST87NJT2RL"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
