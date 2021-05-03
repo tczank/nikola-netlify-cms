@@ -10,4 +10,5 @@ author: Cláudia Santana Tamsky
 type: text
 ---
 
-{{% media url=/video/claudia_post_impeach_witzel.mp4 %}}
+.. youtube:: hhD-Iv8H0Cc
+   :width: 380
