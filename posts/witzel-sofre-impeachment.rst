@@ -10,5 +10,7 @@ author: Cláudia Santana Tamsky
 type: text
 ---
 
+Witzel perdeu o cargo de governador da mesma maneiro como conquistou, sem nenhum apoio popular real.
+
 .. youtube:: hhD-Iv8H0Cc
    :width: 380
