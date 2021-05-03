@@ -1174,13 +1174,13 @@ FEED_LENGTH = 10
 SEARCH_FORM = """
  <!-- DuckDuckGo custom search -->
  <form method="get" id="search" action="https://duckduckgo.com/"
-  class="navbar-form pull-left">
+  class="navbar-form pull-right">
  <input type="hidden" name="sites" value="%s">
  <input type="hidden" name="k8" value="#444444">
  <input type="hidden" name="k9" value="#D51920">
  <input type="hidden" name="kt" value="h">
  <input type="text" name="q" maxlength="255"
-  placeholder="Search&hellip;" class="span2" style="margin-top: 20px;">
+  placeholder="Busca&hellip;" class="span2" style="margin-top: 20px;">
  <input type="submit" value="DuckDuckGo Search" style="visibility: hidden;">
  </form>
  <!-- End of custom search -->
