@@ -1224,17 +1224,29 @@ EXTRA_HEAD_DATA = """\
 # Google Analytics or whatever else you use. Added to the bottom of <body>
 # in the default template (base.tmpl).
 # (translatable)
+#BODY_END = """
+#<!-- Global Site Tag (gtag.js) - Google Analytics -->
+#<script async src="https://www.googletagmanager.com/gtag/js?id=G-ST87NJT2RL"></script>
+#<script>
+#  window.dataLayer = window.dataLayer || [];
+#  function gtag(){dataLayer.push(arguments);}
+#  gtag('js', new Date());
+#
+#  gtag('config', 'G-ST87NJT2RL');
+#</script>
+#"""
 BODY_END = """
-<!-- Global Site Tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-ST87NJT2RL"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-196221079-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-ST87NJT2RL');
+  gtag('config', 'UA-196221079-1');
 </script>
 """
+
 # The possibility to extract metadata from the filename by using a
 # regular expression.
 # To make it work you need to name parts of your regular expression.
