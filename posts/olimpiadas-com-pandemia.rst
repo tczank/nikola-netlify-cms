@@ -4,7 +4,7 @@ date: 2021-05-05 05:59:38 UTC
 description: ''
 link: ''
 slug: olimpiadas-com-pandemia
-tags: 'Olimpíadas, 2020, 2021, pandemia'
+tags: 'Olimpíadas, 2020, 2021, Pandemia'
 title: Olimpíadas com pandemia
 type: text
 author: Thomas Czank
