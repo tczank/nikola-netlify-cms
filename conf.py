@@ -934,14 +934,14 @@ FEED_LINKS_APPEND_QUERY = False
 
 # A HTML fragment describing the license, for the sidebar.
 # (translatable)
-LICENSE = ""
+#LICENSE = ""
 # I recommend using the Creative Commons' wizard:
 # https://creativecommons.org/choose/
-# LICENSE = """
-# <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
-# <img alt="Creative Commons License BY-NC-SA"
-# style="border-width:0; margin-bottom:12px;"
-# src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"></a>"""
+LICENSE = """
+ <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+ <img alt="Creative Commons License BY-NC-SA"
+ style="border-width:0; margin-bottom:12px;"
+ src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"></a>"""
 
 # A small copyright notice for the page footer (in HTML).
 # (translatable)
@@ -1026,7 +1026,7 @@ PRETTY_URLS = True
 
 # If True, publish future dated posts right away instead of scheduling them.
 # Defaults to False.
-# FUTURE_IS_NOW = False
+FUTURE_IS_NOW = True
 
 # If True, future dated posts are allowed in deployed output
 # Only the individual posts are published/deployed; not in indexes/sitemap
@@ -1171,23 +1171,23 @@ FEED_LENGTH = 10
 # This search form works for any site and looks good in the "site" theme where
 # it appears on the navigation bar:
 #
-#SEARCH_FORM = """
-# <!-- DuckDuckGo custom search -->
-# <form method="get" id="search" action="https://duckduckgo.com/"
-#  class="navbar-form pull-left">
-# <input type="hidden" name="sites" value="%s">
-# <input type="hidden" name="k8" value="#444444">
-# <input type="hidden" name="k9" value="#D51920">
-# <input type="hidden" name="kt" value="h">
-# <input type="text" name="q" maxlength="255"
-#  placeholder="Search&hellip;" class="span2" style="margin-top: 4px;">
-# <input type="submit" value="DuckDuckGo Search" style="visibility: hidden;">
-# </form>
-# <!-- End of custom search -->
-# """# % SITE_URL
+SEARCH_FORM = """
+ <!-- DuckDuckGo custom search -->
+ <form method="get" id="search" action="https://duckduckgo.com/"
+  class="navbar-form pull-right">
+ <input type="hidden" name="sites" value="%s">
+ <input type="hidden" name="k8" value="#444444">
+ <input type="hidden" name="k9" value="#D51920">
+ <input type="hidden" name="kt" value="h">
+ <input type="text" name="q" maxlength="255"
+  placeholder="Busca&hellip;" width="5px" class="span2" style="overflow:hidden;margin:0;padding:0;width:150px;height:40px;">
+ <input type="submit" value="DuckDuckGo Search" style="visibility: hidden;">
+ </form>
+ <!-- End of custom search -->
+ """ % SITE_URL
 #
 # If you prefer a Google search form, here's an example that should just work:
-# SEARCH_FORM = """
+#SEARCH_FORM = """
 # <!-- Google custom search -->
 # <form method="get" action="https://www.google.com/search" class="navbar-form navbar-right" role="search">
 # <div class="form-group">
@@ -1224,7 +1224,28 @@ EXTRA_HEAD_DATA = """\
 # Google Analytics or whatever else you use. Added to the bottom of <body>
 # in the default template (base.tmpl).
 # (translatable)
-# BODY_END = ""
+#BODY_END = """
+#<!-- Global Site Tag (gtag.js) - Google Analytics -->
+#<script async src="https://www.googletagmanager.com/gtag/js?id=G-ST87NJT2RL"></script>
+#<script>
+#  window.dataLayer = window.dataLayer || [];
+#  function gtag(){dataLayer.push(arguments);}
+#  gtag('js', new Date());
+#
+#  gtag('config', 'G-ST87NJT2RL');
+#</script>
+#"""
+BODY_END = """
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-196221079-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-196221079-1');
+</script>
+"""
 
 # The possibility to extract metadata from the filename by using a
 # regular expression.
@@ -1287,13 +1308,13 @@ EXTRA_HEAD_DATA = """\
 # Uncomment and modify to following lines to match your accounts.
 # Images displayed come from the `previewimage` meta tag.
 # You can specify the card type by using the `card` parameter in TWITTER_CARD.
-# TWITTER_CARD = {
-#     # 'use_twitter_cards': True,  # enable Twitter Cards
-#     # 'card': 'summary',          # Card type, you can also use 'summary_large_image',
-#                                   # see https://dev.twitter.com/cards/types
-#     # 'site': '@website',         # twitter nick for the website
-#     # 'creator': '@username',     # Username for the content creator / author.
-# }
+TWITTER_CARD = {
+      'use_twitter_cards': True,  # enable Twitter Cards
+      'card': 'summary',          # Card type, you can also use 'summary_large_image',
+                                   # see https://dev.twitter.com/cards/types
+      'site': '@website',         # twitter nick for the website
+      'creator': '@username',     # Username for the content creator / author.
+ }
 
 # Bundle JS and CSS into single files to make site loading faster in a HTTP/1.1
 # environment but is not recommended for HTTP/2.0 when caching is used.
