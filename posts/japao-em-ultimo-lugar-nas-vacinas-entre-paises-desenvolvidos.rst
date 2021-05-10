@@ -28,6 +28,7 @@ type: text
 .. role:: green
 .. role:: pink
 .. role:: orange
+.. role:: cyan
 
 Gráfico do jornal Mainichi do Japão mostra o país em último lugar dentre os países que já iniciaram a vacinação.
 
