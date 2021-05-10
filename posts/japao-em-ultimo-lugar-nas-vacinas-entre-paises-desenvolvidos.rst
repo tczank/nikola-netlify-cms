@@ -19,7 +19,7 @@ type: text
     <style> .green {color:green} </style>
     <style> .orange {color:orange} </style>
     <style> .pink {color:pink} </style>
-    <style> .lblue {color:lightblue} </style>
+    <style> .aqua {color:aqua} </style>
 
 .. role:: red
 .. role:: blue
