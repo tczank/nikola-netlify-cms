@@ -1,3 +1,15 @@
+---
+author: Thomas Czank
+category: ''
+date: 2021-05-10 15:46:47 UTC
+description: ''
+link: ''
+slug: japao-em-ultimo-lugar-nas-vacinas-entre-paises-desenvolvidos
+tags: Pandemia, Vacina, Corona
+title: Japão em último lugar nas vacinas entre países desenvolvidos
+type: text
+---
+
 .. raw:: html
 
     <style> .red {color:red} </style>
@@ -18,18 +30,6 @@
 .. role:: orange
 
 :red:`test - this text should be red`
-
----
-author: Thomas Czank
-category: ''
-date: 2021-05-10 15:46:47 UTC
-description: ''
-link: ''
-slug: japao-em-ultimo-lugar-nas-vacinas-entre-paises-desenvolvidos
-tags: Pandemia, Vacina, Corona
-title: Japão em último lugar nas vacinas entre países desenvolvidos
-type: text
----
 
 Gráfico do jornal Mainichi do Japão mostra o país em último lugar dentre os países que já iniciaram a vacinação.
 
