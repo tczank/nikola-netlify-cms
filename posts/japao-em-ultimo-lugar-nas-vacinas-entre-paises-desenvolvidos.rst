@@ -19,7 +19,7 @@ type: text
     <style> .green {color:green} </style>
     <style> .orange {color:orange} </style>
     <style> .pink {color:pink} </style>
-    <style> .aqua {color:#00FFFF;} </style>
+    <style> .cyan {color:cyan} </style>
 
 .. role:: red
 .. role:: blue
@@ -31,7 +31,7 @@ type: text
 
 Gráfico do jornal Mainichi do Japão mostra o país em último lugar dentre os países que já iniciaram a vacinação.
 
-Em :blue:`azul` a linha no topo representa Israel, a linha :gray:`cinza` a Inglaterra, a :aqua:`azul clara` os EUA, a :yellow:`amarela pontilhada` a Alemanha, a :orange:`laranja continua` a França, a :green:`verde` o Brasil, a :orange:`laranja pontilhada` a Índia, a :pink:`rosa continua` a Coréia do Sul e por último em preto o Japão.
+Em :blue:`azul` a linha no topo representa Israel, a linha :gray:`cinza` a Inglaterra, a :cyan:`azul clara` os EUA, a :yellow:`amarela pontilhada` a Alemanha, a :orange:`laranja continua` a França, a :green:`verde` o Brasil, a :orange:`laranja pontilhada` a Índia, a :pink:`rosa continua` a Coréia do Sul e por último em preto o Japão.
 
 .. image:: /images/mainichishinbun_vacina.png
            :width: 350px
