@@ -12,3 +12,4 @@ author: Luisa Monteiro
 Pequeno documentário sobre a liberação da Holanda ao final da 2\ :sup:`a` Guerra Mundial.
 
 .. youtube:: DrEVzny2spU
+   :width: 350px
