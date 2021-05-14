@@ -48,4 +48,6 @@ Ficou claro no depoimento do comerciante de vacinas que era possível o Brasil t
 \
 
 **A CPI morna é mais uma farsa para seguir paralisando a esquerda.**
+
+
 .. [Lancet] https://www.thelancet.com/journals/lancet/article/PIIS0140-67362100191-4/fulltext 
