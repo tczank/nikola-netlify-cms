@@ -12,8 +12,8 @@ author: Thomas Czank
 Essa semana  a Comissão Parlamentar de Inquérito conduzida no senado para apurar as condições que levaram ao número de mortes que se aproxima de 500000 brasileiros recebeu os depoimentos do gerente da Pfizer da América Latina, do ex secretário de comunicações do governo e do diretor da Anvisa.
 
 .. figure:: /images/renan_fbolsonaro.jpeg
-   :width: 400
-   :alt: Renan discute com Flávio Bolsonaro
+            :width: 400
+            :alt: Renan discute com Flávio Bolsonaro
 
     Seção da CPI transmitida pela TV Senado
 
@@ -40,8 +40,10 @@ Gerente da Pfizer da América Latina
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Ficou claro no depoimento do comerciante de vacinas que era possível o Brasil ter adquirido ao menos mais 4 milhões de vacinas caso o governo federal se importasse minimamente com a população brasileira.
-
+\
+\
+\
 **A CPI morna é mais uma farsa para seguir paralisando a esquerda.**
-
-
+\
+\
 .. [Lancet] https://www.thelancet.com/journals/lancet/article/PIIS0140-67362100191-4/fulltext 
