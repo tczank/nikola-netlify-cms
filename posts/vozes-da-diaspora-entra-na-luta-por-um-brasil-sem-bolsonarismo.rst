@@ -1,6 +1,6 @@
 ---
 category: 'Apresentação'
-date: 2025-05-02 02:56:08 UTC
+date: 2025-05-15 11:08:08 UTC
 description: ''
 link: ''
 slug: vozes-da-diaspora-entra-na-luta-por-um-brasil-sem-bolsonarismo
