@@ -23,7 +23,7 @@ Depois do desastre da operação da polícia civil do RJ que acabou com a morte 
 .. TEASER_END
 
 .. soundcloud:: 1049164321
-   :width: 400
+   :width: 350 
 
 Ele diz:"Foram dez meses de trabalho de investigação que revelaram a rotina de terror e humilhação que o tráfico impôs aos moradores. Crianças eram aliciadas e cooptadas para o crime. (...) A reação dos bandidos foi a mais brutal registrada nos últimos tempos”
 Não é novidade para ninguém, o nível que o crime organizado alcançou no Brasil, mas por se tratar de uma chacina com 28 mortos (a maior na história do Rio de Janeiro), o governador deveria apresentar provas do que afirma. No entanto, apesar dos supostos dez meses de investigação, Claudio Castro não apresentou prova nenhuma. Já as imagens, fotos e relatos de moradores publicados até agora, denunciam que muitos dos investigados teriam sido assassinados mesmo após a rendição.
