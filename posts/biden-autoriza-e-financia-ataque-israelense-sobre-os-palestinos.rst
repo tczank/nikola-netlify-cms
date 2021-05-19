@@ -21,4 +21,4 @@ Depois da reunião remota do conselho de segurança da ONU no Domingo (dia 16) f
 
 Apesar das declarações de Biden de que ele esperava que o "conflito" se resolvesse logo ele aprovou uma venda de 735 milhões de dólares em mísseis para Israel. Quando perguntado sobre o "conflito" numa feira de automóveis brincou que atropelaria o repórtor que o interrogou.
 
-{{ % media url=https://twitter.com/tomselliott/status/1394741963346391045 %}}
+{{% media url=https://twitter.com/tomselliott/status/1394741963346391045?s=20 %}}
