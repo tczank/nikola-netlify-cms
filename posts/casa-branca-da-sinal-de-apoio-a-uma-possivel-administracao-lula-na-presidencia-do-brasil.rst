@@ -19,3 +19,4 @@ author: Cláudia Santana Tamsky
 Confira aqui a entrevista de Lula.
 
 .. youtube:: k0t4DXfl2AA
+   :width: 350
