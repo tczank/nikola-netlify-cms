@@ -15,7 +15,7 @@ A CPI do genocídio (nome censurado quando em uso nas redes sociais sediadas nos
      :width: 350
      :alt: Pazuello em manifestação no Rio de Janeiro com Bolsonaro
 
-      Pazuello em manifestação no Rio de Janeiro com Bolsonaro
+     Pazuello em manifestação no Rio de Janeiro com Bolsonaro
 
 .. TEASER_END
 
