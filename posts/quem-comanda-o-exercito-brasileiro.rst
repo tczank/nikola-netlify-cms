@@ -22,4 +22,4 @@ A CPI do genocídio (nome censurado quando em uso nas redes sociais sediadas nos
 Quando Pazuello, ex ministro da Saúde do governo Bolsonaro, participou da CPI, sob juramento, repetiu o que fez Fabio, mentiu e se contradisse muitas vezes. Não foi preso. No final de semana de seu depoimento Pazuello participou de um ato político com o presidente Bolsonaro. O exército brasileiro tem uma determinação que impede que generais da ativa participem de atos políticos.
 Pazuello violou a determinação do exército brasileiro e até agora não foi preso.
 
-O exército brasileiro ainda segue as leis em vigor da constituição de 1988 ou só respondem à Bolsonaro.
+O exército brasileiro ainda segue as leis em vigor da constituição de 1988 ou só respondem a Bolsonaro?
