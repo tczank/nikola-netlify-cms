@@ -9,7 +9,7 @@ title: Quem comanda o exército brasileiro?
 type: text
 author: Thomas Czank
 ---
-A CPI do genocídio (nome censurado quando em uso nas redes sociais sediadas nos EUA) quanto questionou Fabio Wajngarten recebeu mentiras. Fabio estava sob juramento e ainda sim se contradisse levando em conta sua entrevista dada a revista Veja antes de sua participação da CPI. Ele poderia/deveria ter sido preso naquele momento. Contudo o presidente da CPI não permitiu que Fábio fosse preso por ter violado seu juramento.
+A CPI do genocídio (nome censurado nas redes sociais sediadas nos EUA) quanto questionou Fábio Wajngarten recebeu mentiras. Fábio estava sob juramento e ainda sim se contradisse diversas vezes, em relação à entrevista dada a revista Veja antes de sua participação na CPI. Ele poderia e deveria ter sido preso naquele momento. Contudo, o presidente da CPI não permitiu a prisão em flagrante de Fábio, apesar do ex-chefe da Secom ter violado seu juramento.
 
 .. figure:: /images/pazuello_manifestacao.jpeg
      :width: 350
@@ -19,7 +19,7 @@ A CPI do genocídio (nome censurado quando em uso nas redes sociais sediadas nos
 
 .. TEASER_END
 
-Quando Pazuello, ex ministro da Saúde do governo Bolsonaro, participou da CPI, sob juramento, repetiu o que fez Fabio, mentiu e se contradisse muitas vezes. Não foi preso. No final de semana de seu depoimento Pazuello participou de um ato político com o presidente Bolsonaro. O exército brasileiro tem uma determinação que impede que generais da ativa participem de atos políticos.
+Quando Pazuello, ex-ministro da Saúde do governo Bolsonaro, participou da CPI, repetiu o que fez Fábio, mentiu em juízo e se contradisse muitas vezes. Não foi preso. No final de semana de seu depoimento Pazuello participou de um ato político com o presidente Bolsonaro. O exército brasileiro tem uma determinação que impede que generais da ativa participem de atos políticos.
 Pazuello violou a determinação do exército brasileiro e até agora não foi preso.
 
 O exército brasileiro ainda segue as leis em vigor da constituição de 1988 ou só respondem a Bolsonaro?
