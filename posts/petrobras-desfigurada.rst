@@ -14,7 +14,8 @@ Um breve balanço da corrente sindical Unidade Classista que está presente na l
 .. TEASER_END
 
 A Petrobras tem sido vítima, ao longo de sua história, dos mais sórdidos ataques, por dentro e por fora, buscando inviabilizá-la como principal estatal brasileira. Desde a luta pela sua fundação, os agentes monopolistas internacionais se colocaram de corpo e alma como inimigos da campanha “o Petróleo é Nosso” e do projeto de criação de uma estatal de Petróleo (que viria a ser a Petrobras). Em seguida, fizeram lobby para desencorajar a continuidade do projeto, quando quiseram convencer a dita opinião pública de que no Brasil não havia petróleo.
-
+|
+|
 Mais recentemente, os comunicadores a serviço das petrolíferas e demais corporações estrangeiras papagaiavam que o Pré-sal seria uma farsa. E quando ele se provou altamente viável comercialmente, mudaram o discurso para uma suposta incapacidade da Petrobras de produzir sozinha a partir daquelas reservas. Em suma, estes agentes no Brasil a serviço de interesses antinacionais e antipopulares sempre foram simples sabotadores da nossa soberania.
 
 Pois bem, o golpeachment de 2016 veio para buscar fazer o projeto privatista assumir sua velocidade de cruzeiro, e o desmonte da Petrobras ganhar contornos altamente alarmistas. Mas atenção:não é correto apontar essa data como ponto de inflexão entre uma política de alguma preservação do caráter estatal da Petrobras para uma política pró mercado, privatista. Cabe registro que, no afã de fazer concessões políticas ante uma extrema pressão oposicionista desde as manifestações de 2013, passando pelas polarizadas eleições presidenciais de 2014, o lava-jatismo e a chantagem golpista daí por diante, o governo Dilma e as gestões petistas da Petrobras já tomavam medidas de preparação de terreno e davam até mesmo os primeiros passos da jornada recente de privatização.
