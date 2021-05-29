@@ -27,9 +27,9 @@ Por outro lado, este foi um período em que houve uma considerável recomposiç�
 
 No entanto, no período Dilma Rousseff, sobretudo após 2013, o vetor privatista desse arranjo híbrido começa a se sobressair. Foi na gestão da presidenta petista que se deu o leilão do campo de Libra, do Pré-sal (2013), a privatização parcial da Gaspetro (2015) e o planejamento e primeira tentativa de privatização da BR Distribuidora (2015). Já no desespero de impedir o golpe, na sua estratégia de concessão submissa em vez de enfrentamento, Dilma fez um grande acordo com José Serra para desmontar o regime de partilha do Pré-Sal, permitindo que empresas estrangeiras passassem a operar em campos dessa região e abrindo mão da participação mínima de 30% da Petrobras (2016). Já neste período, o plano de negócios e gestão da Petrobras previa a privatização do equivalente a US$ 15 bilhões em ativos da companhia.
 
-
+~~~~~~~~
 **A atrofia como projeto**
-
+~~~~~~~~
 
 Foi no período pós-golpe que a privatização alcançou sua velocidade e amplitude máximas. Esse processo se enquadra em uma visão de subordinação a um projeto imperialista que reserva ao Brasil um mero papel de exportação de bens primários na divisão internacional do trabalho. Não é exagero constatar que o projeto da burguesia dos países capitalistas avançados é de monopólio industrial e pós industrial para suas economias, enquanto nos cabe um retrocesso quase colonial, limitando-nos apenas à exportação de artigos agropecuários ou commodities não processadas, como minério e petróleo cru. Para a economia e o povo brasileiros, eles têm a atrofia como projeto.
 
