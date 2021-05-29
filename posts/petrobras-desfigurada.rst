@@ -32,6 +32,7 @@ No entanto, no período Dilma Rousseff, sobretudo após 2013, o vetor privatista
 Foi no período pós-golpe que a privatização alcançou sua velocidade e amplitude máximas. Esse processo se enquadra em uma visão de subordinação a um projeto imperialista que reserva ao Brasil um mero papel de exportação de bens primários na divisão internacional do trabalho. Não é exagero constatar que o projeto da burguesia dos países capitalistas avançados é de monopólio industrial e pós industrial para suas economias, enquanto nos cabe um retrocesso quase colonial, limitando-nos apenas à exportação de artigos agropecuários ou commodities não processadas, como minério e petróleo cru. Para a economia e o povo brasileiros, eles têm a atrofia como projeto.
 \
 **A privatização está desfigurando a Petrobras**
+~~~~~~~~~~~~~~
 \
 Esses anos de pleno vapor da privatização da Petrobras estão desfigurando esse colosso do povo brasileiro, não só no aspecto de sua participação nas atividades de petróleo, energia e na economia, mas também na sua dinâmica interna de funcionamento. Quanto ao papel da Petrobras nas atividades petrolíferas, estamos sujeitos a uma gestão que considera o valor para o acionista mais importante do que o preço adequado e o abastecimento da população brasileira. Com um projeto de uma empresa totalmente configurada para exportar petróleo cru (obedecendo ao interesse dos países compradores) e distribuir os lucros para acionistas privados, boa parte também estrangeiros.
 \
