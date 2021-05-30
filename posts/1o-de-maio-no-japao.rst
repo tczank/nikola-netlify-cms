@@ -9,6 +9,7 @@ title: Primeiro de Maio no Japão
 author: Thomas Czank
 type: text
 ---
-O 1\ :sup:`o` de Maio no Japão não é um feriado e mesmo assim existem aqueles que lutam pelos direitos dos trabalhadores relembrando os mártires de Chicago.
+
+   O 1\ :sup:`o` de Maio no Japão não é um feriado e mesmo assim existem aqueles que lutam pelos direitos dos trabalhadores relembrando os mártires de Chicago.
 
 {{% media url=https://twitter.com/ikisaseromay/status/1388436103854628864?s=20 %}}
