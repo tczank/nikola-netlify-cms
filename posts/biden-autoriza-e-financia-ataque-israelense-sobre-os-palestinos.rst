@@ -9,7 +9,8 @@ title: Biden autoriza e financia ataque Israelense sobre os Palestinos
 type: text
 author: Thomas Czank
 ---
-Depois da reunião remota do conselho de segurança da ONU no Domingo (dia 16) foi tentado emitir uma declaração conjunta de pedido de cessar-fogo à Israel e à Palestina, duas vezes. Todos os países membros concordaram. Menos os EUA.
+
+   Depois da reunião remota do conselho de segurança da ONU no Domingo (dia 16) foi tentado emitir uma declaração conjunta de pedido de cessar-fogo à Israel e à Palestina, duas vezes. Todos os países membros concordaram. Menos os EUA.
 
 .. figure:: /images/res_csonu_2021_ispa.jpg
      :width: 350
@@ -19,6 +20,6 @@ Depois da reunião remota do conselho de segurança da ONU no Domingo (dia 16) f
 
 .. TEASER_END
 
-Apesar das declarações de Biden de que ele esperava que o "conflito" se resolvesse logo ele aprovou uma venda de 735 milhões de dólares em mísseis para Israel. Quando perguntado sobre o "conflito" numa feira de automóveis brincou que atropelaria o repórtor que o interrogou.
+  Apesar das declarações de Biden de que ele esperava que o "conflito" se resolvesse logo ele aprovou uma venda de 735 milhões de dólares em mísseis para Israel. Quando perguntado sobre o "conflito" numa feira de automóveis brincou que atropelaria o repórtor que o interrogou.
 
 {{% media url=https://twitter.com/tomselliott/status/1394741963346391045?s=20 %}}
