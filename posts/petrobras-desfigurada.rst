@@ -12,6 +12,12 @@ author: Unidade Classista
 Um breve balanço da corrente sindical Unidade Classista que está presente na luta dos petroleiros por uma empresa 100% estatal sobre o estrago causado pel
 as gestões privatistas na Petrobras. (Reprodução aqui do texto integral com autorização da UC)
 
+.. figure:: /images/petrobrasdesfigurada.jpg
+    :width: 350
+    :alt: Plataforma de Petróleo da Petrobrás
+
+    Plataforma de Petróleo da Petrobrás
+
 .. TEASER_END
 
 |
