@@ -9,13 +9,13 @@ title: A Petrobras desfigurada e o Brasil desguarnecido
 type: text
 author: Unidade Classista
 ---
-Um breve balanço da corrente sindical Unidade Classista que está presente na luta dos petroleiros por uma empresa 100% estatal sobre o estrago causado pelas gestões privatistas na Petrobras. (Reprodução aqui do texto integral com autorização da UC)
+
+   Um breve balanço da corrente sindical Unidade Classista que está presente na luta dos petroleiros por uma empresa 100% estatal sobre o estrago causado pelas gestões privatistas na Petrobras. (Reprodução aqui do texto integral com autorização da UC)
 
 .. TEASER_END
 
 A Petrobras tem sido vítima, ao longo de sua história, dos mais sórdidos ataques, por dentro e por fora, buscando inviabilizá-la como principal estatal brasileira. Desde a luta pela sua fundação, os agentes monopolistas internacionais se colocaram de corpo e alma como inimigos da campanha “o Petróleo é Nosso” e do projeto de criação de uma estatal de Petróleo (que viria a ser a Petrobras). Em seguida, fizeram lobby para desencorajar a continuidade do projeto, quando quiseram convencer a dita opinião pública de que no Brasil não havia petróleo.
-|
-|
+
 Mais recentemente, os comunicadores a serviço das petrolíferas e demais corporações estrangeiras papagaiavam que o Pré-sal seria uma farsa. E quando ele se provou altamente viável comercialmente, mudaram o discurso para uma suposta incapacidade da Petrobras de produzir sozinha a partir daquelas reservas. Em suma, estes agentes no Brasil a serviço de interesses antinacionais e antipopulares sempre foram simples sabotadores da nossa soberania.
 
 Pois bem, o golpeachment de 2016 veio para buscar fazer o projeto privatista assumir sua velocidade de cruzeiro, e o desmonte da Petrobras ganhar contornos altamente alarmistas. Mas atenção:não é correto apontar essa data como ponto de inflexão entre uma política de alguma preservação do caráter estatal da Petrobras para uma política pró mercado, privatista. Cabe registro que, no afã de fazer concessões políticas ante uma extrema pressão oposicionista desde as manifestações de 2013, passando pelas polarizadas eleições presidenciais de 2014, o lava-jatismo e a chantagem golpista daí por diante, o governo Dilma e as gestões petistas da Petrobras já tomavam medidas de preparação de terreno e davam até mesmo os primeiros passos da jornada recente de privatização.
@@ -28,11 +28,11 @@ Por outro lado, este foi um período em que houve uma considerável recomposiç�
 
 No entanto, no período Dilma Rousseff, sobretudo após 2013, o vetor privatista desse arranjo híbrido começa a se sobressair. Foi na gestão da presidenta petista que se deu o leilão do campo de Libra, do Pré-sal (2013), a privatização parcial da Gaspetro (2015) e o planejamento e primeira tentativa de privatização da BR Distribuidora (2015). Já no desespero de impedir o golpe, na sua estratégia de concessão submissa em vez de enfrentamento, Dilma fez um grande acordo com José Serra para desmontar o regime de partilha do Pré-Sal, permitindo que empresas estrangeiras passassem a operar em campos dessa região e abrindo mão da participação mínima de 30% da Petrobras (2016). Já neste período, o plano de negócios e gestão da Petrobras previa a privatização do equivalente a US$ 15 bilhões em ativos da companhia.
 
-**A atrofia como projeto**
+A atrofia como projeto
 ==========================
 Foi no período pós-golpe que a privatização alcançou sua velocidade e amplitude máximas. Esse processo se enquadra em uma visão de subordinação a um projeto imperialista que reserva ao Brasil um mero papel de exportação de bens primários na divisão internacional do trabalho. Não é exagero constatar que o projeto da burguesia dos países capitalistas avançados é de monopólio industrial e pós industrial para suas economias, enquanto nos cabe um retrocesso quase colonial, limitando-nos apenas à exportação de artigos agropecuários ou commodities não processadas, como minério e petróleo cru. Para a economia e o povo brasileiros, eles têm a atrofia como projeto.
 
-**A privatização está desfigurando a Petrobras**
+A privatização está desfigurando a Petrobras
 =================================================
 Esses anos de pleno vapor da privatização da Petrobras estão desfigurando esse colosso do povo brasileiro, não só no aspecto de sua participação nas atividades de petróleo, energia e na economia, mas também na sua dinâmica interna de funcionamento. Quanto ao papel da Petrobras nas atividades petrolíferas, estamos sujeitos a uma gestão que considera o valor para o acionista mais importante do que o preço adequado e o abastecimento da população brasileira. Com um projeto de uma empresa totalmente configurada para exportar petróleo cru (obedecendo ao interesse dos países compradores) e distribuir os lucros para acionistas privados, boa parte também estrangeiros.
 
