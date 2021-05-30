@@ -12,7 +12,7 @@ author: Thomas Czank
 Essa semana  a Comissão Parlamentar de Inquérito conduzida no senado para apurar as condições que levaram ao número de mortes que se aproxima de 500000 brasileiros recebeu os depoimentos do gerente da Pfizer da América Latina, do ex secretário de comunicações do governo e do diretor da Anvisa.
 
 .. figure:: /images/renan_fbolsonaro.jpeg
-    :width: 400
+    :width: 350
     :alt: Renan discute com Flávio Bolsonaro
 
     Seção da CPI transmitida pela TV Senado

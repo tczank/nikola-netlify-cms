@@ -4,7 +4,7 @@ date: 2021-05-29 15:45:27 UTC
 description: ''
 link: ''
 slug: petrobras-desfigurada
-tags: 'petrobras'
+tags: 'petrobras, privatizações, soberania, recursos estratégicos'
 title: A Petrobras desfigurada e o Brasil desguarnecido
 type: text
 author: Unidade Classista
