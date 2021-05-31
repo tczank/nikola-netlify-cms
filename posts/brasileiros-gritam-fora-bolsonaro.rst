@@ -12,6 +12,8 @@ author: Thomas Czank
 
 No dia 29 de Maio de 2021 ocorreram manifestações por todo Brasil e no mundo pedindo Fora Bolsonaro!
 
+.. previewimage: /images/forabozo_bolsonaristas_paulista.jpg 
+
 .. figure:: /images/forabozo_bolsonaristas_paulista.jpg
     :width: 350
     :alt: Comparação das manifestações contra e a favor de Bolsonaro na Av. Paulista.
@@ -28,3 +30,5 @@ A cobertura da grande mídia
 
 Os grandes jornais do dia 30 deram publicidade mínima ou nenhuma. Os jornais o Globo e o Estadão não disponibilizaram suas primeiras páginas para destacar a manifestação em oposição ao presidente. A TV Record disse que as manifestações eram simplesmente pela continuidade do auxílio emergencial.
 Mais uma prova de que o apreço pela democracia é inexistente na mídia hegemônica do Brasil.
+
+{{% media url=https://twitter.com/jnascim/status/1398979539351519232?s=20 %}}
