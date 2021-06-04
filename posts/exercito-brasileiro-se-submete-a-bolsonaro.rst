@@ -4,7 +4,7 @@ date: 2021-06-04 07:35:54 UTC
 description: ''
 link: ''
 slug: exercito-brasileiro-se-submete-a-bolsonaro
-tags: 'Exército brasileiro, Bolsonaro, Pazuello,  constituição**
+tags: 'Exército brasileiro, Bolsonaro, Pazuello,  constituição'
 title: Exército brasileiro se submete a Bolsonaro
 type: text
 author: Thomas Czank
