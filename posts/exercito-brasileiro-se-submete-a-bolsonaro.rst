@@ -11,6 +11,12 @@ author: Thomas Czank
 ---
 Depois de participar de manifestação a favor do presidente Bolsonaro o general da ativa, Pazuello, tento violado determinação interna do exército brasileiro, que impede a participação de membros da ativa em atos políticos, teve que submeter explicações ao ministério da Defesa.
 
+.. figure:: /images/punicaomarinha.jpg
+     :width: 350
+     :alt: Dois pesos duas medidas
+
+     Dois pesos duas medidas
+
 .. TEASER_END
 
 Durante a semana houve expectativa de que alguma punição mesmo que branda seria tomada, como por exemplo transferir o general Pazuello para a reserva. Isso não aconteceu. O general Pazuello ganhou um cargo na presidência e não ouve nenhuma punição.
