@@ -18,6 +18,7 @@ Agora é oficial. A maioria do povo peruano aderiu ao lema „nunca mais um home
     Pedro Castillo na sede de seu partido em Lima.
 
 .. TEASER_END
+
 Pedro Castillo, tem 51 anos, é mestre em psicologia educacional e dá aulas em uma escola primária em uma região pobre do país andino. Ele ganhou notoriedade em 2017 ao liderar uma greve de professores em várias regiões do país que durou 75 dias. 
 A imagem de um lápis enorme foi símbolo da campanha de Castillo. Sua meta é garantir alfabetização e ensino de qualidade para todas as pessoas. Ainda no primeiro turno o professor já assumiu o compromisso de que Educação e Saúde sejam considerados direitos fundamentais de todos os peruano e peruanas. 
 Subestimado pela direita e pela esquerda adaptada ao sistema capitalista, Castillo correu por fora, com um partido marxista-leninista e graças ao sindicado dos professores, movimentos sociais e de povos originais, sua candidatura cresceu especialmente nas duas semanas que antecederam as eleições. 
