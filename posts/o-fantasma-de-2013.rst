@@ -15,7 +15,7 @@ Após as manifestações mundiais do 19J o Brasil se posiciona para intensificar
      :width: 350
      :alt: Manifestação contra o Bolsonaro na Av. Paulista
 
-    Manifestação do último final de semana na Av. Paulista
+     Manifestação do último final de semana na Av. Paulista
 
 .. TEASER_END
 
