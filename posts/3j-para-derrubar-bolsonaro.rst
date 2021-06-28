@@ -11,12 +11,15 @@ type: text
 ---
 Na semana passada Terça-Feira, dia 22 de Junho, a frente fora Bolsonaro nacional havia decidido convocar as próximas manifestações para o dia 24 de Julho. A convocação foi antecipada para o dia 3 de Julho, próximo Sábado.
 
-.. image:: /images/3j_forabozo.jpeg
+.. previewimage:: /images/3j_forabozo.jpeg
+.. figure:: /images/3j_forabozo.jpeg
     :width: 350
     :alt: Cartaz de convocação para manifestações do dia 3 de Julho.
 
-.. TEASER_END
+    Cartaz de convocação para manifestações do dia 3 de Julho.
 
+.. TEASER_END
+   
 Não sabemos quem fez a decisão inicial de chamar as próximas manifestações contra Bolsonaro para o dia 24 de Julho. Assim que a data foi publicada foi alvo de críticas, qual a lógica de aumentar o intervalo entre manifestações contra o governo genocida de Bolsonaro de 21 dias, entre o 29M e o 19J, para 35 dias, entre o 19J e o 24J?
 
 |
