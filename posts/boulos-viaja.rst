@@ -13,7 +13,9 @@ Logo após a divulgação de uma uma pesquisa de intenção de votos para o gove
 
 .. figure:: /images/boulos_paris.jpg
    :width: 350
-   :alt: Foto de Boulos em Paris
+   :alt: Foto de Boulos em Paris.
+
+   Foto de Boulos em Paris.
 
 .. TEASER_END
 
