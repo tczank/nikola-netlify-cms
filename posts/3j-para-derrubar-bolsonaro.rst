@@ -11,6 +11,7 @@ type: text
 ---
 Na semana passada Terça-Feira, dia 22 de Junho, a frente fora Bolsonaro nacional havia decidido convocar as próximas manifestações para o dia 24 de Julho. A convocação foi antecipada para o dia 3 de Julho, próximo Sábado.
 
+.. og:image:: /images/3j_forabozo.jpeg
 .. figure:: /images/3j_forabozo.jpeg
     :width: 350
     :alt: Cartaz de convocação para manifestações do dia 3 de Julho.
