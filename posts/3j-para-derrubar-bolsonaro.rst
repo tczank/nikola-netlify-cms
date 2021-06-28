@@ -4,7 +4,7 @@ date: 2021-06-28 06:57:32 UTC
 description: ''
 link: ''
 slug: 3j-para-derrubar-bolsonaro
-tags: '3J, manifestações, fora bolsonaro, verde-amarelo, vermelho'
+tags: '3J, Manifestações, Fora Bolsonaro, verde-amarelo, vermelho'
 title: 3J para derrubar Bolsonaro!
 author: Thomas Czank
 type: text
