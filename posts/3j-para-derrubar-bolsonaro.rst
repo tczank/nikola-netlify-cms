@@ -8,10 +8,10 @@ tags: '3J, Manifestações, Fora Bolsonaro, verde-amarelo, vermelho'
 title: 3J para derrubar Bolsonaro!
 author: Thomas Czank
 type: text
+previewimage: /images/3j_forabozo.jpeg
 ---
 Na semana passada Terça-Feira, dia 22 de Junho, a frente fora Bolsonaro nacional havia decidido convocar as próximas manifestações para o dia 24 de Julho. A convocação foi antecipada para o dia 3 de Julho, próximo Sábado.
 
-.. previewimage:: /images/3j_forabozo.jpeg
 .. figure:: /images/3j_forabozo.jpeg
     :width: 350
     :alt: Cartaz de convocação para manifestações do dia 3 de Julho.
