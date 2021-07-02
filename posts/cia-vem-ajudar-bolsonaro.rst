@@ -14,9 +14,9 @@ Há dois dias das manifestações antecipadas pro dia 3 de Julho, esse Sábado, 
 
 .. figure:: /images/botanabandeira.jpeg
     :width: 350
-    :alt: Charge de [@gladsontargas](https://twitter.com/GladsonTarga?s=20)
+    :alt: Charge de `@gladsontargas <https://twitter.com/GladsonTarga?s=20>`_
 
-    Charge de [@gladsontargas](https://twitter.com/GladsonTarga?s=20)
+    Charge de `@gladsontargas <https://twitter.com/GladsonTarga?s=20>`_ 
 
 .. TEASER_END
 
