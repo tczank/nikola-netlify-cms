@@ -4,7 +4,7 @@ date: 2021-07-02 09:16:13 UTC
 description: ''
 link: ''
 slug: cia-vem-ajudar-bolsonaro
-tags: 'CIA, Bolsonaro, Biden, esquerda, impeachment, manifestações'
+tags: 'CIA, Bolsonaro, Biden, Esquerda, Impeachment, Manifestações'
 title: CIA do democrata Biden vem ajudar Bolsonaro a sobreviver
 type: text
 previewimage: /images/botanabandeira.jpeg
