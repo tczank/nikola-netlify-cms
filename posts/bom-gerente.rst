@@ -24,7 +24,7 @@ Lula está - agora em definitivo - elegível e, portanto, de volta ao jogo.
 .. TEASER_END
 
 .. soundcloud:: 1031467675
-   :width: 400
+   :width: 350
 
 Para espanto de toda militância e alegria geral da elite raivosa, Lula aceitou
 jogar o jogo dentro das regras. Aceitou o golpe contra Dilma, aceitou sua
