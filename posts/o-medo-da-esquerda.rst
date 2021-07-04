@@ -34,7 +34,7 @@ Portanto o problema é alcançar as maiorias para mudar algo. Caso contrário tr
 
 |
 
-O contrário disso é convencer a classe trabalhadora das nossas posições. É para fazer isso não é preciso “aliviar o tom”, pelo contrário, é preciso falar claro e direto. Quem já esteve uma vez em uma organização de trabalhadores viu com que deboche e impaciência os e as trabalhadores acompanham os discursos conciliatórios. A base não quer saber de blábláblá. A base tem urgência, porque tem problemas urgentes e sabe que todo acordo no fundo é apenas uma forma ou de empurrar com a barriga ou de atrapalhar as reivindicações justas e urgentes da classe trabalhadora.
+O contrário disso é convencer a classe trabalhadora das nossas posições. E para fazer isso não é preciso “aliviar o tom”, pelo contrário, é preciso falar claro e direto. Quem já esteve uma vez em uma organização de trabalhadores viu com que deboche e impaciência os e as trabalhadores acompanham os discursos conciliatórios. A base não quer saber de blábláblá. A base tem urgência, porque tem problemas urgentes e sabe que todo acordo no fundo é apenas uma forma ou de empurrar com a barriga ou de atrapalhar as reivindicações justas e urgentes da classe trabalhadora.
 
 |
 
