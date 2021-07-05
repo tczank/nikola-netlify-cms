@@ -8,8 +8,8 @@ tags: 'Direitos Trabalhistas, Terceirização, Precarização'
 title: Degradação dos direitos trabalhistas no Japão
 type: text
 author:
-  - Renato Brandão
-  - Thomas Czank
+  -name: "Renato Brandão"
+  -name: "Thomas Czank"
 previewimage: /images/minoruhayashi.png
 ---
 A morte de um operário em um acidente de trabalho. Minoru Hayashi, acabava de completar 65 anos e 31 anos de trabalho numa fábrica de papel onde apesar de 31 anos de serviço não tinha a estabilidade e os benefícios de um trabalhador regular da fábrica, continuava como trabalhador temporário　派遣社員. Deixou esposa e filhos.
