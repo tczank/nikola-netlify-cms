@@ -1,11 +1,10 @@
 ---
-category: ''
+category: 'Energia Nuclear'
 date: 2021-07-12 05:27:21 UTC
 description: ''
 link: ''
 slug: energia-nuclear-energia-limpa
-tags: 'energias limpas, CO2, energia nuclear'
-category: 'Energia Nuclear'
+tags: 'energias limpas, CO2'
 title: 'Energia Nuclear, Energia Limpa: Fator de capacidade'
 type: text
 author: Thomas Czank
