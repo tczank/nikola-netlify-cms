@@ -10,7 +10,7 @@ title: Energia Nuclear, Energia Limpa: Fator de capacidade
 type: text
 author: Thomas Czank
 previewimage: /images/energia_nuclear/reat_nuc.jpeg
-has_math: true
+has_math: yes
 ---
 Com a intensificação dos fenômenos climáticos anormais, como as baixas temperaturas e neve no Texas, recentemente planos como o *Green New Deal* apoiado por muitos progressistas norte americanos tem ganhado mais apoio e destaque na mídia. Dentro do *Green New Deal* contudo, a fonte de energia com maior fator de capacidade não foi contemplada.
 
