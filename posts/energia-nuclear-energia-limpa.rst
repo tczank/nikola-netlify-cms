@@ -5,8 +5,8 @@ description: ''
 link: ''
 slug: energia-nuclear-energia-limpa
 tags: 'energias limpas, CO2, energia nuclear'
-category: Energia Nuclear
-title: Energia Nuclear, Energia Limpa: Fator de capacidade
+category: 'Energia Nuclear'
+title: 'Energia Nuclear, Energia Limpa: Fator de capacidade'
 type: text
 author: Thomas Czank
 previewimage: /images/energia_nuclear/reat_nuc.jpeg
