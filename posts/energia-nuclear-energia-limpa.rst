@@ -27,7 +27,7 @@ Fator de capacidade
 ~~~~~~~~~~~~~~~~~~~
 
 É um valor calculado a partir da energia produzida anualmente comparada com a energia sendo produzida momentaneamente anualizada (1 ano contém 8760 horas).
-\[\mathrm{Fator \hspace{0.12cm} de\hspace{0.12cm}  Capacidade} = \frac{\mathrm{Energia\hspace{0.12cm}  Anual}}{\mathrm{Potência} \times 8760}\]
+:math:`\mathrm{Fator \hspace{0.12cm} de\hspace{0.12cm}  Capacidade} = \frac{\mathrm{Energia\hspace{0.12cm}  Anual}}{\mathrm{Potência} \times 8760}`
 
 Quando comparamos o fator de capacidade de várias fontes de energia diferentes fica claro que a energia nuclear tem o maior rendimento levando em conta as tecnologias mais atuais.
 
