@@ -1405,13 +1405,13 @@ GLOBAL_CONTEXT_FILLER = []
 
 # If you're using a CDN for storage, you can set a base URL different
 # from your blog's URL.
-POSTCAST_BASE_URL = "https://www.vozes.net/oculosescuros/"
+#POSTCAST_BASE_URL = "https://www.vozes.net/"
 
 # If you're using a CDN you may want to keep your local podcast files
 # separate from the OUTPUT_FOLDER.
 # When POSTCAST_ENCLOSURE_FOLDER is set, all enclosure files will be
 # searched for there, instead of the post output directory.
-POSTCAST_ENCLOSURE_FOLDER = "podcasts/"
+POSTCAST_ENCLOSURE_FOLDER = "podcasts"
 
 # Path for where postcast feeds will be generated.
 
