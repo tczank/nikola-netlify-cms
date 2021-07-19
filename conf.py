@@ -1424,7 +1424,7 @@ POSTCASTS = ['postcast']
 # all posts. Specifying a category for the '' feed will result in all
 # feeds being filtered by that category.
 POSTCAST_CATEGORY = {
-    'they live': 'postcast-episode',
+    'postcast': 'they live',
 }
 
 # Filter posts to be included in a feed with a list of tags. The
