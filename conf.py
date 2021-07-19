@@ -1418,21 +1418,21 @@ POSTCAST_ENCLOSURE_FOLDER = "podcasts"
 # Final locations are:
 # output / TRANSLATION[lang] / POSTCAST_PATH / postcast.xml
 POSTCAST_PATH = 'casts'
-POSTCASTS = ['postcast']
+POSTCASTS = ['Óculos Escuros']
 
 # Filter posts to be included in a feed by category. The default is
 # all posts. Specifying a category for the '' feed will result in all
 # feeds being filtered by that category.
-# POSTCAST_CATEGORY = {
-#     '': 'postcast',
-# }
+POSTCAST_CATEGORY = {
+    'they live': 'Óculos Escuros',
+}
 
 # Filter posts to be included in a feed with a list of tags. The
 # default is all posts. Specifying tags for the '' feed will result in
 # all feeds being filtered by those tags.
-# POSTCAST_TAGS = {
-#     '': ['postcast-episode'],
-# }
+#POSTCAST_TAGS = {
+#    'eles vivem': ['oculosescuros-episodio'],
+#}
 
 # Provide an image to be assocated with the feed. The default is no
 # image. Specifying an image for the '' feed will result in all feeds
@@ -1444,9 +1444,9 @@ POSTCASTS = ['postcast']
 # Indicate whether each feed contains explicit content. The default is
 # undefined. Specifying a value for the '' feed will result in all
 # feeds being marked.
-# POSTCAST_ITUNES_EXPLICIT = {
-#     '': False,
-# }
+POSTCAST_ITUNES_EXPLICIT = {
+    '': False,
+}
 
 # Provide a list of iTunes categories to be associated with the
 # feed. The default is undefined. Specifying categories for the ''
