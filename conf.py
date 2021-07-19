@@ -1418,13 +1418,13 @@ POSTCAST_ENCLOSURE_FOLDER = "podcasts"
 # Final locations are:
 # output / TRANSLATION[lang] / POSTCAST_PATH / postcast.xml
 POSTCAST_PATH = 'casts'
-POSTCASTS = ['postcast']
+POSTCASTS = ['postcasts']
 
 # Filter posts to be included in a feed by category. The default is
 # all posts. Specifying a category for the '' feed will result in all
 # feeds being filtered by that category.
 POSTCAST_CATEGORY = {
-    'postcast': 'they live',
+    'postcasts': 'oculos escuros',
 }
 
 # Filter posts to be included in a feed with a list of tags. The

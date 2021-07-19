@@ -4,7 +4,7 @@ date: 2021-07-19 06:47:09 UTC
 description: ''
 link: ''
 slug: oculos-escuros-1eles-vivem
-category: they live
+category: 'oculos escuros'
 title: Óculos Escuros 1:Eles Vivem!
 type: text
 ---
