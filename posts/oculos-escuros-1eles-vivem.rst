@@ -1,15 +1,13 @@
-..
-   ---
-   category: ''
-   date: 2021-07-19 06:47:09 UTC
-   description: ''
-   link: ''
-   slug: oculos-escuros-1eles-vivem
-   tags: ''
-   title: Óculos Escuros 1:Eles Vivem!
-   type: text
-   ---
-   Escreva o seu comentário aqui.
+---
+category: ''
+date: 2021-07-19 06:47:09 UTC
+description: ''
+link: ''
+slug: oculos-escuros-1eles-vivem
+tags: ''
+title: Óculos Escuros 1:Eles Vivem!
+type: text
+---
 
 .. author: Pedro e Thomas
 .. enclosure: /podcasts/podcasttheylive1.flac
