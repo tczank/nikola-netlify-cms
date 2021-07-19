@@ -1411,13 +1411,13 @@ POSTCAST_BASE_URL = "www.vozes.net/oculosescuros/"
 # separate from the OUTPUT_FOLDER.
 # When POSTCAST_ENCLOSURE_FOLDER is set, all enclosure files will be
 # searched for there, instead of the post output directory.
-POSTCAST_ENCLOSURE_FOLDER = "/podcasts/"
+POSTCAST_ENCLOSURE_FOLDER = "podcasts"
 
 # Path for where postcast feeds will be generated.
 
 # Final locations are:
 # output / TRANSLATION[lang] / POSTCAST_PATH / postcast.xml
-POSTCAST_PATH = '/podcasts/'
+POSTCAST_PATH = 'casts'
 POSTCASTS = ['postcast']
 
 # Filter posts to be included in a feed by category. The default is
