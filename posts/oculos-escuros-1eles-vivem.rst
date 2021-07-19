@@ -11,4 +11,4 @@
    :width: 20em
    :alt: displaying the episode art in the HTML view of the post
 
-Thanks for listening to our latest episode!
+O próximo episódio será sobre o filme Idiocracia (Idiocracy).
