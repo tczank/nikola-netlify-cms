@@ -3,7 +3,7 @@
 .. category: 'oculos escuros'
 .. title: Óculos Escuros 1: Eles Vivem!
 .. author: Pedro e Thomas
-.. enclosure: podcasttheylive1.mp3
+.. enclosure: /podcasts/podcasttheylive1.mp3
 
 .. image:: /images/postcast-logo.png
    :width: 20em
