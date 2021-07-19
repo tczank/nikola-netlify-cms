@@ -1405,7 +1405,7 @@ GLOBAL_CONTEXT_FILLER = []
 
 # If you're using a CDN for storage, you can set a base URL different
 # from your blog's URL.
-POSTCAST_BASE_URL = "www.vozes.net/oculosescuros/"
+POSTCAST_BASE_URL = "https://www.vozes.net/oculosescuros/"
 
 # If you're using a CDN you may want to keep your local podcast files
 # separate from the OUTPUT_FOLDER.
@@ -1444,9 +1444,9 @@ POSTCAST_CATEGORY = {
 # Indicate whether each feed contains explicit content. The default is
 # undefined. Specifying a value for the '' feed will result in all
 # feeds being marked.
-POSTCAST_ITUNES_EXPLICIT = {
-    '': False,
-}
+#POSTCAST_ITUNES_EXPLICIT = {
+#    '': False,
+#}
 
 # Provide a list of iTunes categories to be associated with the
 # feed. The default is undefined. Specifying categories for the ''
