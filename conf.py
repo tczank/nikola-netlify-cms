@@ -1417,7 +1417,7 @@ POSTCAST_ENCLOSURE_FOLDER = "/podcasts/"
 
 # Final locations are:
 # output / TRANSLATION[lang] / POSTCAST_PATH / postcast.xml
-POSTCAST_PATH = 'podcasts'
+POSTCAST_PATH = '/podcasts/'
 POSTCASTS = ['postcast']
 
 # Filter posts to be included in a feed by category. The default is
