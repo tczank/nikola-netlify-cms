@@ -4,7 +4,6 @@
 .. title: Óculos Escuros 1: Eles Vivem!
 .. author: Pedro e Thomas
 .. enclosure: podcasttheylive1.mp3
-.. status: draft
 
 .. image:: /images/postcast-logo.png
    :width: 20em
