@@ -5,7 +5,6 @@ import time
 # !! This is the configuration of Nikola. !! #
 # !!  You should edit it to your liking.  !! #
 
-
 # ! Some settings can be different in different languages.
 # ! A comment stating (translatable) is used to denote those.
 # ! There are two ways to specify a translatable setting:
@@ -13,7 +12,6 @@ import time
 # ! (b) BLOG_TITLE = {"en": "My Blog", "es": "Mi Blog"}
 # ! Option (a) is used when you don't want that setting translated.
 # ! Option (b) is used for settings that are different in different languages.
-
 
 # Data about this site
 BLOG_AUTHOR = "Vozes da Diáspora"  # (translatable)
@@ -148,23 +146,23 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-#        ('/index.html', 'Principal', 'fa fa-home'),
+        #        ('/index.html', 'Principal', 'fa fa-home'),
         ('/archive.html', 'Arquivo', 'fa fa-folder-open'),
         ('/categories/index.html', 'Tags', 'fa fa-tags'),
-#        ('/rss.xml', 'RSS', 'fa fa-rss'),
-        ('https://www.facebook.com/forabozonihon', 'Fora Bolsonaro Japão', 'fas fa-bomb'),
-        ('https://www.facebook.com/UNIDXSporUmBrasilmelhor', 'UNIDXS por um Brasil Melhor', 'fab fa-facebook f'),
-        ('https://www.facebook.com/nucleo.pt.boston.eua', 'Núcleo PT Boston', 'fab fa-star'),
+        #        ('/rss.xml', 'RSS', 'fa fa-rss'),
+        ('https://www.facebook.com/forabozonihon', 'Fora Bolsonaro Japão',
+         'fas fa-bomb'),
+        ('https://www.facebook.com/UNIDXSporUmBrasilmelhor',
+         'UNIDXS por um Brasil Melhor', 'fab fa-facebook f'),
+        ('https://www.facebook.com/nucleo.pt.boston.eua', 'Núcleo PT Boston',
+         'fab fa-star'),
     )
 }
-
 
 # Alternative navigation links. Works the same way NAVIGATION_LINKS does,
 # although themes may not always support them. (translatable)
 # (Bootstrap 4: right-side of navbar, Bootblog 4: right side of title)
-NAVIGATION_ALT_LINKS = {
-    DEFAULT_LANG: ()
-}
+NAVIGATION_ALT_LINKS = {DEFAULT_LANG: ()}
 
 # Name of the theme to use.
 THEME = "zen-forkawesome"
@@ -230,18 +228,15 @@ THEME_CONFIG = {
 #         ("pages/*.md", {"en": "pages", "de": "seiten"}, "page.tmpl"),
 #     )
 
-POSTS = (
-    ("posts/*.rst", "posts", "post.tmpl"),
-    ("posts/*.ipynb", "posts", "post.tmpl"),
-    ("posts/*.md", "posts", "post.tmpl"),
-    ("posts/*.html", "posts", "post.tmpl")
-)
+POSTS = (("posts/*.rst", "posts", "post.tmpl"), ("posts/*.ipynb", "posts",
+                                                 "post.tmpl"),
+         ("posts/*.md", "posts", "post.tmpl"), ("posts/*.html", "posts",
+                                                "post.tmpl"))
 PAGES = (
     ("pages/*.md", "pages", "page.tmpl"),
     ("pages/*.txt", "pages", "page.tmpl"),
     ("pages/*.html", "pages", "page.tmpl"),
 )
-
 
 # Below this point, everything is optional
 
@@ -305,16 +300,16 @@ DATE_FANCINESS = 2
 COMPILERS = {
     "rest": ('.rst', '.txt'),
     "markdown": ('.md', '.mdown', '.markdown'),
-    "textile": ('.textile',),
-    "txt2tags": ('.t2t',),
-    "bbcode": ('.bb',),
-    "wiki": ('.wiki',),
-    "ipynb": ('.ipynb',),
+    "textile": ('.textile', ),
+    "txt2tags": ('.t2t', ),
+    "bbcode": ('.bb', ),
+    "wiki": ('.wiki', ),
+    "ipynb": ('.ipynb', ),
     "html": ('.html', '.htm'),
     # PHP files are rendered the usual way (i.e. with the full templates).
     # The resulting files have .php extensions, making it possible to run
     # them without reconfiguring your server to recognize them.
-    "php": ('.php',),
+    "php": ('.php', ),
     # Pandoc detects the input from the source filename
     # but is disabled by default as it would conflict
     # with many of the others.
@@ -545,7 +540,6 @@ HIDDEN_CATEGORIES = []
 #    },
 # }
 
-
 # If you do not want to display an author publicly, you can mark it as hidden.
 # The author will not be displayed on the author list page and posts.
 # Tag pages will still be generated.
@@ -558,9 +552,7 @@ HIDDEN_AUTHORS = ['Guest']
 
 # Optional HTML that displayed on “main” blog index.html files.
 # May be used for a greeting. (translatable)
-FRONT_INDEX_HEADER = {
-    DEFAULT_LANG: ''
-}
+FRONT_INDEX_HEADER = {DEFAULT_LANG: ''}
 
 # Create per-month archives instead of per-year
 # CREATE_MONTHLY_ARCHIVE = False
@@ -802,7 +794,7 @@ USE_FILENAME_AS_TITLE = True
 
 # If set to True, any ICC profile will be copied when an image is thumbnailed or
 # resized.
-PRESERVE_ICC_PROFILES = True 
+PRESERVE_ICC_PROFILES = True
 
 # Folders containing images to be used in normal posts or pages.
 # IMAGE_FOLDERS is a dictionary of the form {"source": "destination"},
@@ -903,7 +895,7 @@ IMAGE_THUMBNAIL_SIZE = 350
 # )
 
 # Show teasers (instead of full posts) in indexes? Defaults to False.
-INDEX_TEASERS = True 
+INDEX_TEASERS = True
 
 # HTML fragments with the Read more... links.
 # The following tags exist and are replaced for you:
@@ -962,15 +954,12 @@ CONTENT_FOOTER = 'Contents &copy; {date}         <a href="mailto:{email}">{autho
 #          do not need formatting)
 # (translatable)
 CONTENT_FOOTER_FORMATS = {
-    DEFAULT_LANG: (
-        (),
-        {
-            "email": BLOG_EMAIL,
-            "author": BLOG_AUTHOR,
-            "date": time.gmtime().tm_year,
-            "license": LICENSE
-        }
-    )
+    DEFAULT_LANG: ((), {
+        "email": BLOG_EMAIL,
+        "author": BLOG_AUTHOR,
+        "date": time.gmtime().tm_year,
+        "license": LICENSE
+    })
 }
 
 # A simple copyright tag for inclusion in RSS feeds that works just
@@ -1092,12 +1081,14 @@ FUTURE_IS_NOW = True
 #       with the MarkdownExtension class and should not be added here.
 # Defaults are markdown.extensions.(fenced_code|codehilite|extra)
 # markdown.extensions.meta is required for Markdown metadata.
-MARKDOWN_EXTENSIONS = ['markdown.extensions.fenced_code', 'markdown.extensions.codehilite', 'markdown.extensions.extra']
+MARKDOWN_EXTENSIONS = [
+    'markdown.extensions.fenced_code', 'markdown.extensions.codehilite',
+    'markdown.extensions.extra'
+]
 
 # Options to be passed to markdown extensions (See https://python-markdown.github.io/reference/)
 # Default is {} (no config at all)
 # MARKDOWN_EXTENSION_CONFIGS = {}
-
 
 # Extra options to pass to the pandoc command.
 # by default, it's empty, is a list of strings, for example
@@ -1310,12 +1301,12 @@ BODY_END = """
 # Images displayed come from the `previewimage` meta tag.
 # You can specify the card type by using the `card` parameter in TWITTER_CARD.
 TWITTER_CARD = {
-      'use_twitter_cards': True,  # enable Twitter Cards
-      'card': 'summary',          # Card type, you can also use 'summary_large_image',
-                                   # see https://dev.twitter.com/cards/types
-      'site': '@website',         # twitter nick for the website
-      'creator': '@username',     # Username for the content creator / author.
- }
+    'use_twitter_cards': True,  # enable Twitter Cards
+    'card': 'summary',  # Card type, you can also use 'summary_large_image',
+    # see https://dev.twitter.com/cards/types
+    'site': '@website',  # twitter nick for the website
+    'creator': '@username',  # Username for the content creator / author.
+}
 
 # Bundle JS and CSS into single files to make site loading faster in a HTTP/1.1
 # environment but is not recommended for HTTP/2.0 when caching is used.
@@ -1380,8 +1371,11 @@ WARN_ABOUT_TAG_METADATA = False
 
 # Put in global_context things you want available on all your templates.
 # It can be anything, data, functions, modules, etc.
-GLOBAL_CONTEXT = {'default_header_image': '/images/vozesdadiaspora.jpg',
-    'blog_sidebar': """\
+GLOBAL_CONTEXT = {
+    'default_header_image':
+    '/images/vozesdadiaspora.jpg',
+    'blog_sidebar':
+    """\
 <div class="sidebar-module sidebar-module-inset">
   <h4>Sobre nós</h4>
   <p>Esse é um blog mantido pelos brasileiros que vivem ou viveram no exterior.</p>
@@ -1395,10 +1389,8 @@ GLOBAL_CONTEXT = {'default_header_image': '/images/vozesdadiaspora.jpg',
 <li><a href="http://getbootstrap.com/examples/blog/">Bootstrap Blog Theme</a></li>
 </ol>
 </div>
-"""}
-
-
-
+"""
+}
 
 #GLOBAL_CONTEXT = {}
 
@@ -1406,3 +1398,65 @@ GLOBAL_CONTEXT = {'default_header_image': '/images/vozesdadiaspora.jpg',
 # GLOBAL_CONTEXT as parameter when the template is about to be
 # rendered
 GLOBAL_CONTEXT_FILLER = []
+
+# -*- coding: utf-8 -*-
+
+# example settings for postcast nikola plugin
+
+# If you're using a CDN for storage, you can set a base URL different
+# from your blog's URL.
+POSTCAST_BASE_URL = "www.vozes.net/oculosescuros/"
+
+# If you're using a CDN you may want to keep your local podcast files
+# separate from the OUTPUT_FOLDER.
+# When POSTCAST_ENCLOSURE_FOLDER is set, all enclosure files will be
+# searched for there, instead of the post output directory.
+POSTCAST_ENCLOSURE_FOLDER = "/podcasts/"
+
+# Path for where postcast feeds will be generated.
+
+# Final locations are:
+# output / TRANSLATION[lang] / POSTCAST_PATH / postcast.xml
+POSTCAST_PATH = 'podcasts'
+POSTCASTS = ['postcast']
+
+# Filter posts to be included in a feed by category. The default is
+# all posts. Specifying a category for the '' feed will result in all
+# feeds being filtered by that category.
+# POSTCAST_CATEGORY = {
+#     '': 'postcast',
+# }
+
+# Filter posts to be included in a feed with a list of tags. The
+# default is all posts. Specifying tags for the '' feed will result in
+# all feeds being filtered by those tags.
+# POSTCAST_TAGS = {
+#     '': ['postcast-episode'],
+# }
+
+# Provide an image to be assocated with the feed. The default is no
+# image. Specifying an image for the '' feed will result in all feeds
+# being associated with that image.
+# POSTCAST_ITUNES_IMAGE = {
+#     '': 'images/postcast-logo.png',
+# }
+
+# Indicate whether each feed contains explicit content. The default is
+# undefined. Specifying a value for the '' feed will result in all
+# feeds being marked.
+# POSTCAST_ITUNES_EXPLICIT = {
+#     '': False,
+# }
+
+# Provide a list of iTunes categories to be associated with the
+# feed. The default is undefined. Specifying categories for the ''
+# feed will result in all feeds being categorized the same.
+# POSTCAST_ITUNES_CATEGORIES = {
+#     '': [
+#         ('Arts', ('Design', 'Literature', 'Visual Arts')),
+#         ('Games & Hobbies', ('Video Games', )),
+#         ('Religion & Spirituality', ('Christianity', )),
+#         ('Technology', ),
+#         ('Society & Culture', ('Philosophy', )),
+#     ],
+# }
