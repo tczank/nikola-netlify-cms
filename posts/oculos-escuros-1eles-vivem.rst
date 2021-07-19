@@ -1,11 +1,11 @@
----
-date: 2021-07-19 06:47:09 UTC
-description: ''
-link: ''
-slug: oculos-escuros-1eles-vivem
-category: 'oculos escuros'
-title: Óculos Escuros 1:Eles Vivem!
----
+.. date: 2021-07-19 06:47:09 UTC
+.. slug: oculos-escuros-1eles-vivem
+.. category: 'oculos escuros'
+.. title: Óculos Escuros 1:Eles Vivem!
+.. author: Pedro e Thomas
+.. enclosure: /podcasts/podcasttheylive1.flac
+.. itunes_image: /images/postcast-logo.png
+.. itunes_duration: 53:25
 
 .. image:: /images/postcast-logo.png
    :width: 20em
