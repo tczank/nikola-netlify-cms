@@ -3,10 +3,10 @@
 .. category: 'oculos escuros'
 .. title: Óculos Escuros 1: Eles Vivem!
 .. author: Pedro e Thomas
-.. enclosure: /files/podcasts/podcasttheylive1.mp3
+.. enclosure: https://media.githubusercontent.com/media/tczank/nikola-netlify-cms/master/files/podcasts/podcasttheylive1.mp3
 
 .. image:: /images/postcast-logo.png
    :width: 20em
    :alt: displaying the episode art in the HTML view of the post
 
-{{% audio src=/files/podcasts/podcasttheylive1.mp3 %}}
+{{% audio src=https://media.githubusercontent.com/media/tczank/nikola-netlify-cms/master/files/podcasts/podcasttheylive1.mp3 %}}
