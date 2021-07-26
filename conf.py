@@ -1424,7 +1424,7 @@ POSTCASTS = ['postcasts']
 # all posts. Specifying a category for the '' feed will result in all
 # feeds being filtered by that category.
 POSTCAST_CATEGORY = {
-    'postcasts': 'oculos escuros',
+    'oculos escuros': '',
 }
 
 # Filter posts to be included in a feed with a list of tags. The
