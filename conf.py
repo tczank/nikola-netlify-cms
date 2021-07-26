@@ -155,7 +155,7 @@ NAVIGATION_LINKS = {
         ('https://www.facebook.com/UNIDXSporUmBrasilmelhor',
          'UNIDXS por um Brasil Melhor', 'fab fa-facebook f'),
         ('https://www.facebook.com/nucleo.pt.boston.eua', 'Núcleo PT Boston',
-         'fab fa-star'),
+         'fas fa-star'),
     )
 }
 
@@ -165,7 +165,7 @@ NAVIGATION_LINKS = {
 NAVIGATION_ALT_LINKS = {DEFAULT_LANG: ()}
 
 # Name of the theme to use.
-THEME = "zen-forkawesome"
+THEME = "zen-jinja"
 #THEME = "bootstrap4_flatly"
 # Primary color of your theme. This will be used to customize your theme.
 # Must be a HEX value.
