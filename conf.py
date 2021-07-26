@@ -1411,7 +1411,7 @@ GLOBAL_CONTEXT_FILLER = []
 # separate from the OUTPUT_FOLDER.
 # When POSTCAST_ENCLOSURE_FOLDER is set, all enclosure files will be
 # searched for there, instead of the post output directory.
-POSTCAST_ENCLOSURE_FOLDER = "podcasts"
+#POSTCAST_ENCLOSURE_FOLDER = "podcasts"
 
 # Path for where postcast feeds will be generated.
 
