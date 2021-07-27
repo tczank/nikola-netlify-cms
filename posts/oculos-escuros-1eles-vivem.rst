@@ -9,4 +9,4 @@
    :width: 20em
    :alt: displaying the episode art in the HTML view of the post
 
-{{% audio src=https://mega.nz/file/5o0knDRa#GXAF7TAM4V6ogel8PJq1dX8bU-oe1uBw1r4boaebAMI %}}
+{{% audio src=/podcasts/podcasttheylive1.mp3 %}}
