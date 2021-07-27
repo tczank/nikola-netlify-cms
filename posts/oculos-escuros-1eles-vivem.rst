@@ -3,10 +3,10 @@
 .. category: 'postcast'
 .. title: Óculos Escuros 1: Eles Vivem!
 .. author: Óculos Escuros
-.. enclosure: /podcasts/podcasttheylive1.mp3 
+.. enclosure: https://mega.nz/file/5o0knDRa#GXAF7TAM4V6ogel8PJq1dX8bU-oe1uBw1r4boaebAMI 
 
 .. image:: /images/postcast-logo.png
    :width: 20em
    :alt: displaying the episode art in the HTML view of the post
 
-{{% audio src=/podcasts/podcasttheylive1.mp3 %}}
+{{% audio src=https://mega.nz/file/5o0knDRa#GXAF7TAM4V6ogel8PJq1dX8bU-oe1uBw1r4boaebAMI %}}
