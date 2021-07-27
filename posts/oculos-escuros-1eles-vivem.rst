@@ -1,12 +1,11 @@
 .. date: 2021-07-19 06:47:09 UTC
 .. slug: oculos-escuros-1eles-vivem
-.. category: 'postcast'
+.. category: ''
 .. title: Óculos Escuros 1: Eles Vivem!
 .. author: Óculos Escuros
-.. enclosure: https://mega.nz/file/5o0knDRa#GXAF7TAM4V6ogel8PJq1dX8bU-oe1uBw1r4boaebAMI 
 
-.. image:: /images/postcast-logo.png
-   :width: 20em
-   :alt: displaying the episode art in the HTML view of the post
+.. youtube:: Stt70ZvU9gU&t=4s
+    :width: 350
 
-{{% audio src=https://mega.nz/file/5o0knDRa#GXAF7TAM4V6ogel8PJq1dX8bU-oe1uBw1r4boaebAMI %}}
+
+Primeiro episódio do podcast Óculos Escuros onde Pedro e Thomas discutem sobre filmes e a ideologia que nem sembre é clara por trás da história principal. 
