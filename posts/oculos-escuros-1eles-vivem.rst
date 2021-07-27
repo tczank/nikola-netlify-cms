@@ -2,7 +2,7 @@
 .. slug: oculos-escuros-1eles-vivem
 .. category: 'oculos escuros'
 .. title: Óculos Escuros 1: Eles Vivem!
-.. author: Pedro e Thomas
+.. author: Óculos Escuros
 .. enclosure: https://mega.nz/file/5o0knDRa#GXAF7TAM4V6ogel8PJq1dX8bU-oe1uBw1r4boaebAMI
 
 .. image:: /images/postcast-logo.png
