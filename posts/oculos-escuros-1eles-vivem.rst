@@ -4,7 +4,7 @@
 .. title: Óculos Escuros 1: Eles Vivem!
 .. author: Óculos Escuros
 
-.. youtube:: Stt70ZvU9gU&t=4s
+.. youtube:: Stt70ZvU9gU
     :width: 350
 
 
