@@ -1411,20 +1411,20 @@ GLOBAL_CONTEXT_FILLER = []
 # separate from the OUTPUT_FOLDER.
 # When POSTCAST_ENCLOSURE_FOLDER is set, all enclosure files will be
 # searched for there, instead of the post output directory.
-POSTCAST_ENCLOSURE_FOLDER = "files/podcasts"
+POSTCAST_ENCLOSURE_FOLDER = "/podcasts/"
 
 # Path for where postcast feeds will be generated.
 
 # Final locations are:
 # output / TRANSLATION[lang] / POSTCAST_PATH / postcast.xml
 POSTCAST_PATH = 'casts'
-POSTCASTS = ['postcasts']
+POSTCASTS = ['postcast']
 
 # Filter posts to be included in a feed by category. The default is
 # all posts. Specifying a category for the '' feed will result in all
 # feeds being filtered by that category.
 POSTCAST_CATEGORY = {
-    'postcasts': 'oculos escuros',
+    '': 'postcast',
 }
 
 # Filter posts to be included in a feed with a list of tags. The
