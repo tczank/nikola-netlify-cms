@@ -157,7 +157,7 @@ NAVIGATION_LINKS = {
         ('https://www.facebook.com/nucleo.pt.boston.eua', 'Núcleo PT Boston',
          'fas fa-star'),
         ('https://www.youtube.com/channel/UC2uzjpsC29-0z2A9wAknqVw',
-         'Canal do Vozes da Diáspora', 'fa fa-youtube'),
+         'Canal do Vozes da Diáspora', 'fab fa-youtube'),
     )
 }
 
