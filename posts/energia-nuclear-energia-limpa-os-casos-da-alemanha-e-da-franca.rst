@@ -21,7 +21,7 @@ Dez anos depois como está a produção de energia da Alemanha?
 
 .. TEASER_END
 
-No gráfico acima, que pode ser obtido por qualquer pessoa em tempo real, do site `energy map <https://www.electricitymap.org>_ podemos ver que estão sendo utilizados combustíveis fósseis, como carvão e aá  agás natural o que acaba produzindo CO2.
+No gráfico acima, que pode ser obtido por qualquer pessoa em tempo real, do site `energy map <https://www.electricitymap.org>`_ podemos ver que estão sendo utilizados combustíveis fósseis, como carvão e aá  agás natural o que acaba produzindo CO2.
  
 .. figure:: /images/energia_nuclear/franca_en.png
     :width: 350
