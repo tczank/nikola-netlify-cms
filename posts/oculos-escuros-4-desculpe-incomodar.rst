@@ -3,7 +3,7 @@
 .. description: ''
 .. link: ''
 .. slug: oculos-escuros-4-desculpe-incomodar
-.. title: 'Óculos Escuros 4: Desculpe Incomodar'
+.. title: Óculos Escuros 4: Desculpe Incomodar
 .. author: Óculos Escuros
 
 .. youtube:: b2K5x0haJGo
