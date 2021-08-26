@@ -22,7 +22,7 @@ Hoje pela manhã foram reportados 3 lotes de vacinas da Moderna, uma das mais us
 
 1 dos três lotes realmente foi contaminado com fragmentos de metais visíveis ao olho nu. Os outros dois lotes foram declarados suspeitos pela proximidade com o primeiro.
 
-.. figure:: /images/lotdomal.jpge
+.. figure:: /images/lotdomal.jpeg
     :width: 350
     :alt: Comprovante de vacinação com o número do lote contaminado.
 
