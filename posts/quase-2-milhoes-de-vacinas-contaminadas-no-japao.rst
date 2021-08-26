@@ -3,6 +3,7 @@ category: ''
 date: 2021-08-26 11:33:19 UTC
 description: ''
 link: ''
+author: Thomas Czank
 slug: quase-2-milhoes-de-vacinas-contaminadas-no-japao
 tags: 'covid, vacinas, moderna, Japão'
 title: Quase 2 milhões de vacinas contaminadas no Japão
