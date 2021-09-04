@@ -1,7 +1,7 @@
 .. date: 2021-08-03 06:09:11
 .. description: ''
 .. slug: oculos-escuros-3-enquanto-durar-a-guerra
-.. category: ''
+.. category: Óculos Escuros
 .. title: Óculos Escuros 3: Enquanto durar a guerra
 .. author: Óculos Escuros
 

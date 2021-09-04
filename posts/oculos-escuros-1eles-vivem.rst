@@ -1,6 +1,6 @@
 .. date: 2021-07-19 06:47:09 UTC
 .. slug: oculos-escuros-1eles-vivem
-.. category: ''
+.. category: Óculos Escuros
 .. title: Óculos Escuros 1: Eles Vivem!
 .. author: Óculos Escuros
 
