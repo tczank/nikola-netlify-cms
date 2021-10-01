@@ -8,6 +8,7 @@ tags: 'Evangélicos, movimentos sociais, Fora Bolsonaro, 7 de setembro'
 title: A culpa não é dos crentes
 type: text
 author: Nilza Valeria Zacarias
+previewimage: /images/foto_evangelicos_bozo.jpg
 ---
 
 Não são poucas as vezes em que somos instigados a falar mal dos crentes, nossos irmãos de fé.

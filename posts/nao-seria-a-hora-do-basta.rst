@@ -8,6 +8,7 @@ tags: '2O, Manifestações, Fora Bolsonaro'
 title: Não seria a hora do basta?
 type: text
 author: Angela Alves-Randig
+previewimage: /images/caminhao_com_ossos_rio_de_janeiro.jpg
 ---
 
 Mais uma manifestação contra o  Bolsonaro está marcada e se aproxima, dia 2 de outubro.
