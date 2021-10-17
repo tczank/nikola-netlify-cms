@@ -16,9 +16,9 @@ Apesar de toda a esperança - e mesmo euforia - envolvendo a candidatura de Lula
 
 .. figure:: /images/retrovisorpt.jpg
     :width: 350
-    :alt: Lula com José Alencar em sua inauguração em 2002
+    :alt: Lula com José Alencar durante a posse em 2002
 
-    Lula com José Alencar em sua inauguração em 2002
+    Lula com José Alencar durante a posse em 2002
 
 .. TEASER_END
 
