@@ -8,6 +8,7 @@ tags: 'Lula, CPI, eleições 2022'
 title: 'Debate aberto sobre CPI e apoio a Lula'
 type: text
 author: Vozes da Diáspora
+previewimage: /images/vozesnodebate1.jpg
 ---
 
 Debates sobre o final da CPI e as perspectivas de Lula em 2022.
