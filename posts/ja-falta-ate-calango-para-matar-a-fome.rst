@@ -4,7 +4,7 @@ date: 2021-12-07 13:41:55 UTC
 description: ''
 link: ''
 slug: ja-falta-ate-calango-para-matar-a-fome
-tags: 'fome, pandemia, crise'
+tags: 'fome, Pandemia, crise'
 title: Já falta até calango para matar a fome no Rio Grande do Norte
 type: text
 author: Estelina Rodrigues de Farias
