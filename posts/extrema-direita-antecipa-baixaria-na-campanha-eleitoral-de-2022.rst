@@ -4,7 +4,7 @@ date: 2021-12-07 12:18:55 UTC
 description: ''
 link: ''
 slug: extrema-direita-antecipa-baixaria
-tags: 'Eleições 2022'
+tags: 'eleições 2022'
 title: Extrema direita antecipa baixaria da campanha eleitoral de 2022
 type: text
 author: Estelina Rodrigues de Farias
