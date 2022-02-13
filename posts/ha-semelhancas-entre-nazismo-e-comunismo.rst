@@ -3,7 +3,7 @@ category: ''
 date: 2022-02-13 14:20:01 UTC
 description: ''
 link: ''
-slug: h
+slug: ha-semelhancas-entre-nazismo-e-comunismo
 tags: 'Nazismo, Comunismo'
 title: Há semelhanças entre o nazismo e o comunismo?
 type: text
