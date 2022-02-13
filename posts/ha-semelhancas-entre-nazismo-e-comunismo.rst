@@ -56,9 +56,6 @@ Um feito histórico e glorioso que custou a vida de 20 Milhões de pessoas na Un
 
 Mas se as diferenças são assim tão claras, a quem interessa a justaposição comunismo/nazismo como equivalentes?
 Primeiro aos fascistas do mundo inteiro que podem tranquilamente renunciar ao nazismo alemão, pedindo a proibição dos símbolos nazistas, dos gestos, das fotos do Führer, sem prejudicar com isso seu próprio movimento político. Isso porque o nazismo é um tipo de fascismo, é o fascismo alemão, mas há o fascismo italiano, brasileiro, português, espanhol, grego, etc. Cada um com seus próprios símbolos, uniformes e líderes. Por isso é fácil para um fascista propor a proibição do nazismo e do comunismo como fez o senador Eduardo Bolsonaro. Ele não perde nada e prejudica o pior inimigo de todos os tipos de fascismo, o comunismo.  
-
-|
-
 Também aos grandes capitalistas do mundo que querem manter seus ganhos e lucros abusivos sobre a miséria da maioria da população mundial.
  Às igrejas que em primeiro lugar tremem de medo de perder suas riquezas e influência política no caso de governos comunistas e em segundo lugar medo de perder sua existência simbólica frente ao desenvolvimento intelectual de seus fiéis. Friedrich Engels formulou que Deus seria uma resposta necessária dos seres humanos à fenômenos e inseguranças que eles desconhecem e não têm o controle. Por isso com o avanço da ciência quanto mais respostas fossem dadas aos homens e a quanto menos inseguranças eles fossem expostos, menor seria a necessidade simbólica Deus. 
 
