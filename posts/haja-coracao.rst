@@ -4,7 +4,7 @@ date: 2022-02-20 14:20:01 UTC
 description: ''
 link: ''
 slug: haja-coracao
-tags: 'elições 2022, Lula, campanha'
+tags: 'eleições 2022, Lula, campanha'
 title: Haja coração
 type: text
 author: Estelina Rodrigues de Farias
