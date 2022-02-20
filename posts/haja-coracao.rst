@@ -5,7 +5,7 @@ description: ''
 link: ''
 slug: haja-coracao
 tags: 'eleições 2022, Lula, campanha'
-title: "Haja" coração
+title: Haja coração
 type: text
 author: Estelina Rodrigues de Farias
 previewimage: /images/lula2022.jpeg
